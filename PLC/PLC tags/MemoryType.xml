@@ -3277,7 +3277,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M212.2</LogicalAddress>
-          <Name>Laser BW Slow Limit</Name>
+          <Name>Tunnel Laser BW Slow Limit</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="1E2" CompositionName="Comment">
@@ -3345,7 +3345,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M212.5</LogicalAddress>
-          <Name>Laser FW Stop Limit</Name>
+          <Name>Tunnel Laser FW Stop Limit</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="1EC" CompositionName="Comment">
@@ -3549,7 +3549,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M213.4</LogicalAddress>
-          <Name>Laser BW Stop Limit</Name>
+          <Name>Tunnel Laser BW Stop Limit</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="20A" CompositionName="Comment">

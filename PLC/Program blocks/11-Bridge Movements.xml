@@ -2414,7 +2414,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Laser BW Slow Limit" />
+        <Component Name="Tunnel Laser BW Slow Limit" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -2429,7 +2429,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Laser BW Slow Limit" />
+        <Component Name="Tunnel Laser BW Slow Limit" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
@@ -2613,7 +2613,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Laser FW Stop Limit" />
+        <Component Name="Tunnel Laser FW Stop Limit" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -2674,7 +2674,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Laser FW Stop Limit" />
+        <Component Name="Tunnel Laser FW Stop Limit" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
@@ -3125,7 +3125,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Laser BW Stop Limit" />
+        <Component Name="Tunnel Laser BW Stop Limit" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -3156,7 +3156,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Laser BW Stop Limit" />
+        <Component Name="Tunnel Laser BW Stop Limit" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
