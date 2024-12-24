@@ -64,52 +64,52 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Fuse Cab" />
+        <Component Name="Fuse Cab input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Phase Relay - PCR" />
+        <Component Name="Phase Relay - PCR input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Cab Driver DI4 STO" />
+        <Component Name="Cab Driver DI4 STO output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Cabin Motor Driver Fault" />
+        <Component Name="Cabin Motor Driver Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Cab Button Right" />
+        <Component Name="Cab Button Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Cab Stop Right All" />
+        <Component Name="Cab Stop Right All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Cab Button Left" />
+        <Component Name="Cab Button Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Cab Stop Left All" />
+        <Component Name="Cab Stop Left All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Cab Driver On/Off" />
+        <Component Name="Cab Driver On/Off output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
@@ -126,22 +126,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Cabin Motor Driver Fault" />
+        <Component Name="Cabin Motor Driver Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="R9 - Cabin Motor Brake" />
+        <Component Name="R9 - Cabin Motor Brake output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Cab Button Right" />
+        <Component Name="Cab Button Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Cab Driver Reversing" />
+        <Component Name="Cab Driver Reversing output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
@@ -152,7 +152,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Cab Driver Analog" />
+        <Component Name="Cab Driver Analog input" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="39" />
@@ -404,7 +404,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cabin Angle" />
+        <Component Name="Cabin Angle input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -437,7 +437,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Cab Angle Real Meter" />
+        <Component Name="Cab Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Part Name="Normalize" UId="29" DisabledENO="true">
@@ -547,12 +547,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cab Angle Real Meter" />
+        <Component Name="Cab Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -568,32 +568,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Cab Angle Left Stop" />
+        <Component Name="Cab Angle Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Cabin LSW Left" />
+        <Component Name="Cabin LSW Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Cab LS Left Stop" />
+        <Component Name="Cab LS Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Cab Angle Left Stop" />
+        <Component Name="Cab Angle Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Cab LS Left Stop" />
+        <Component Name="Cab LS Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Cab Stop Left All" />
+        <Component Name="Cab Stop Left All Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="31">
@@ -757,12 +757,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cab Angle Real Meter" />
+        <Component Name="Cab Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -778,32 +778,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Cab Angle Right Stop" />
+        <Component Name="Cab Angle Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Cabin LSW Right" />
+        <Component Name="Cabin LSW Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Cab LS Right Stop" />
+        <Component Name="Cab LS Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Cab Angle Right Stop" />
+        <Component Name="Cab Angle Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Cab LS Right Stop" />
+        <Component Name="Cab LS Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Cab Stop Right All" />
+        <Component Name="Cab Stop Right All Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="31">

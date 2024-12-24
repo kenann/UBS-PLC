@@ -75,22 +75,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Height Real" />
+        <Component Name="Height Real Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Slope Vertical" />
+        <Component Name="Slope Vertical Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Tunnel Real Meter" />
+        <Component Name="Tunnel Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Slope Vertical" />
+        <Component Name="Slope Vertical Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="26">
@@ -113,7 +113,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Slope Angel" />
+        <Component Name="Slope Angel Memo" />
       </Symbol>
     </Access>
     <Part Name="Sub" UId="30" DisabledENO="true">
@@ -227,7 +227,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Slope Angel" />
+        <Component Name="Slope Angel Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -238,12 +238,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Slope Stop Down" />
+        <Component Name="Slope Stop Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Slope Angel" />
+        <Component Name="Slope Angel Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -254,7 +254,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Slope Slow Down" />
+        <Component Name="Slope Slow Down Memo" />
       </Symbol>
     </Access>
     <Part Name="Gt" UId="27">
@@ -361,7 +361,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Slope Angel" />
+        <Component Name="Slope Angel Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -372,12 +372,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Slope Stop Up" />
+        <Component Name="Slope Stop Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Slope Angel" />
+        <Component Name="Slope Angel Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -388,7 +388,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Slope Slow Up" />
+        <Component Name="Slope Slow Up Memo" />
       </Symbol>
     </Access>
     <Part Name="Lt" UId="27">
@@ -495,32 +495,32 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Slope Stop Down" />
+        <Component Name="Slope Stop Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Slope Stop Up" />
+        <Component Name="Slope Stop Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Slope Stop All" />
+        <Component Name="Slope Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Slope Slow Down" />
+        <Component Name="Slope Slow Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Slope Slow Up" />
+        <Component Name="Slope Slow Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Slope Slow ALL" />
+        <Component Name="Slope Slow ALL Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="27" />

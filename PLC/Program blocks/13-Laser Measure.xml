@@ -70,7 +70,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Laser" />
+        <Component Name="Laser input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -103,7 +103,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Tunnel Real Meter" />
+        <Component Name="Tunnel Real Meter Memo" />
       </Symbol>
     </Access>
     <Part Name="Normalize" UId="29" DisabledENO="true">

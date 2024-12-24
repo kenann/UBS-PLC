@@ -62,12 +62,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="AutoLeveller Up Sensor" />
+        <Component Name="AutoLeveller Up Sensor input" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="23">
@@ -77,22 +77,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="AutoLeveller Down" />
+        <Component Name="AutoLeveller Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="AutoLeveller Up" />
+        <Component Name="AutoLeveller Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -103,12 +103,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="AutoLeveller Down Sensor" />
+        <Component Name="AutoLeveller Down Sensor input" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="31">
@@ -118,22 +118,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="AutoLeveller Up" />
+        <Component Name="AutoLeveller Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="AutoLeveller Down" />
+        <Component Name="AutoLeveller Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
@@ -144,22 +144,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="41" />
@@ -436,72 +436,72 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="AutoSafety Cross" />
+        <Component Name="AutoSafety Cross Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="AutoLeveller FW" />
+        <Component Name="AutoLeveller FW Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="AutoSafety Cross" />
+        <Component Name="AutoSafety Cross Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="AutoLeveller BW" />
+        <Component Name="AutoLeveller BW Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="AutoLeveller Touch" />
+        <Component Name="AutoLeveller Touch input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="AutoLeveller BW" />
+        <Component Name="AutoLeveller BW Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="35">
@@ -512,57 +512,57 @@
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Autoleveler temp count" />
+        <Component Name="Autoleveler temp count Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="AutoLeveller FW" />
+        <Component Name="AutoLeveller FW Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Autoleveler temp count" />
+        <Component Name="Autoleveler temp count Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW" />
+        <Component Name="C56 - AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="AutoLeveller Touch" />
+        <Component Name="AutoLeveller Touch input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW" />
+        <Component Name="C56 - AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW" />
+        <Component Name="C57 - AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="AutoLeveller BW" />
+        <Component Name="AutoLeveller BW Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW" />
+        <Component Name="C56 - AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW" />
+        <Component Name="C57 - AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW" />
+        <Component Name="C56 - AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="47">
@@ -572,12 +572,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW" />
+        <Component Name="C56 - AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW" />
+        <Component Name="C57 - AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="50">
@@ -587,27 +587,27 @@
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW" />
+        <Component Name="C57 - AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="52">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="53">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="54">
       <Symbol>
-        <Component Name="AutoSafety Cross" />
+        <Component Name="AutoSafety Cross Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="55">
       <Symbol>
-        <Component Name="AutoSafety Cross" />
+        <Component Name="AutoSafety Cross Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="56">
@@ -617,7 +617,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="57">
       <Symbol>
-        <Component Name="AutoSafety Cross" />
+        <Component Name="AutoSafety Cross Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="58" />

@@ -69,152 +69,152 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Canopy Button BW" />
+        <Component Name="Canopy Button BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Canopy Button FW" />
+        <Component Name="Canopy Button FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Canopy Touch Left" />
+        <Component Name="Canopy Touch Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="C52 - Left Canopy FW" />
+        <Component Name="C52 - Left Canopy FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Canopy Touch Right" />
+        <Component Name="Canopy Touch Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="C54 - Right Canopy FW" />
+        <Component Name="C54 - Right Canopy FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Canopy Button FW" />
+        <Component Name="Canopy Button FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Canopy BW Auto" />
+        <Component Name="Canopy BW Auto Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Canopy Button BW" />
+        <Component Name="Canopy Button BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="C53 - Left Canopy BW" />
+        <Component Name="C53 - Left Canopy BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="C55 - Right Canopy BW" />
+        <Component Name="C55 - Right Canopy BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="memo" />
+        <Component Name="memo Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="memo2" />
+        <Component Name="memo2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="canopy ok1" />
+        <Component Name="canopy ok1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="memo3" />
+        <Component Name="memo3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="memo4" />
+        <Component Name="memo4 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="canopy ok2" />
+        <Component Name="canopy ok2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="canopy ok1" />
+        <Component Name="canopy ok1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="canopy ok2" />
+        <Component Name="canopy ok2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="Canopy BW Auto" />
+        <Component Name="Canopy BW Auto Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="50">
       <Symbol>
-        <Component Name="Canopy BW Auto" />
+        <Component Name="Canopy BW Auto Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="51">
@@ -225,47 +225,47 @@
     </Access>
     <Access Scope="GlobalVariable" UId="52">
       <Symbol>
-        <Component Name="canopy ok1" />
+        <Component Name="canopy ok1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="53">
       <Symbol>
-        <Component Name="canopy ok2" />
+        <Component Name="canopy ok2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="54">
       <Symbol>
-        <Component Name="Canopy Button BW" />
+        <Component Name="Canopy Button BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="55">
       <Symbol>
-        <Component Name="Fuse Left Canopy" />
+        <Component Name="Fuse Left Canopy input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="56">
       <Symbol>
-        <Component Name="Fuse Right Canopy" />
+        <Component Name="Fuse Right Canopy input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="57">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="58">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="59">
       <Symbol>
-        <Component Name="PBB Off Mode" />
+        <Component Name="PBB Off Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="60">
       <Symbol>
-        <Component Name="canopy ok1" />
+        <Component Name="canopy ok1 Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="61">

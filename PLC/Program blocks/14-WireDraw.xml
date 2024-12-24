@@ -74,7 +74,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="WireDraw Encoder" />
+        <Component Name="WireDraw Encoder input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -107,7 +107,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Height Real" />
+        <Component Name="Height Real Memo" />
       </Symbol>
     </Access>
     <Part Name="Normalize" UId="29" DisabledENO="true">
@@ -217,7 +217,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Height Real" />
+        <Component Name="Height Real Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -228,27 +228,27 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Wire Up Stop PBB" />
+        <Component Name="Wire Up Stop PBB Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Wire Up Stop PBB" />
+        <Component Name="Wire Up Stop PBB Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Slope Stop Up" />
+        <Component Name="Slope Stop Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="LS BW Stop Limit" />
+        <Component Name="LS BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="28">
@@ -258,7 +258,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Wire Up Stop PBB Limit All" />
+        <Component Name="Wire Up Stop PBB Limit All Memo" />
       </Symbol>
     </Access>
     <Part Name="Ge" UId="30">
@@ -415,7 +415,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Height Real" />
+        <Component Name="Height Real Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -426,12 +426,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Wire Down Stop PBB" />
+        <Component Name="Wire Down Stop PBB Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="UltraSonic for Object" />
+        <Component Name="UltraSonic for Object input" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="25">
@@ -446,37 +446,37 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="sanal kesici (1)" />
+        <Component Name="sanal kesici (1) Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Down Stop Object" />
+        <Component Name="Down Stop Object Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Wire Down Stop PBB" />
+        <Component Name="Wire Down Stop PBB Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Slope Stop Down" />
+        <Component Name="Slope Stop Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="LS FW Stop Limit" />
+        <Component Name="LS FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Down Stop Object" />
+        <Component Name="Down Stop Object Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="34">
@@ -486,7 +486,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Down Stop PBB All" />
+        <Component Name="Down Stop PBB All Memo" />
       </Symbol>
     </Access>
     <Part Name="Le" UId="36">

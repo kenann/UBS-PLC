@@ -62,17 +62,17 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="SS Cable Problem" />
+        <Component Name="SS Cable Problem Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="SafetyShoe-1" />
+        <Component Name="SafetyShoe-1 input" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="24">
@@ -82,17 +82,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="SafetyShoe Long Press" />
+        <Component Name="SafetyShoe Long Press Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="SafetyShoe Siren&amp;Info" />
+        <Component Name="SafetyShoe Siren&amp;Info Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="28">
@@ -102,22 +102,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="SafetyShoe Long Press" />
+        <Component Name="SafetyShoe Long Press Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="SafetyShoe Long Press" />
+        <Component Name="SafetyShoe Long Press Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="SS Cable Problem" />
+        <Component Name="SS Cable Problem Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
@@ -128,32 +128,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="SafetyShoe Long Press" />
+        <Component Name="SafetyShoe Long Press Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="SS Cable Problem" />
+        <Component Name="SS Cable Problem Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="SafetyShoe Siren&amp;Info" />
+        <Component Name="SafetyShoe Siren&amp;Info Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="40" />

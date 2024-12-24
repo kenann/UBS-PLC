@@ -62,12 +62,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -77,32 +77,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Cab Floor FW" />
+        <Component Name="Cab Floor FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Cab Floor BW" />
+        <Component Name="Cab Floor BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="C50 - Cab Floor FW" />
+        <Component Name="C50 - Cab Floor FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Cab Floor BW" />
+        <Component Name="Cab Floor BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Cab Floor FW" />
+        <Component Name="Cab Floor FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="C51 - Cab Floor BW" />
+        <Component Name="C51 - Cab Floor BW output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="30">
