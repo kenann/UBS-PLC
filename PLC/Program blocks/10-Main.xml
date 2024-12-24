@@ -68,47 +68,47 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Key-1 ON" />
+        <Component Name="Key-1 ON input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Key-2 OFF" />
+        <Component Name="Key-2 OFF input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="PBB Off Mode" />
+        <Component Name="PBB Off Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Key-1 ON" />
+        <Component Name="Key-1 ON input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Key-2 OFF" />
+        <Component Name="Key-2 OFF input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Key-1 ON" />
+        <Component Name="Key-1 ON input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Key-2 OFF" />
+        <Component Name="Key-2 OFF input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="30" />
@@ -253,32 +253,32 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Em Stop Left" />
+        <Component Name="Em Stop Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Em Stop Right" />
+        <Component Name="Em Stop Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Em Stop Button" />
+        <Component Name="Em Stop Button input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="CP - Button Em Stop Light" />
+        <Component Name="CP - Button Em Stop Light output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
@@ -288,7 +288,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Tunnel FW Em Stop LS M" />
+        <Component Name="Tunnel FW Em Stop LS M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
@@ -298,7 +298,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Tunnel BW Em Stop LS M" />
+        <Component Name="Tunnel BW Em Stop LS M Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="31">
@@ -465,27 +465,27 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Start M" />
+        <Component Name="Start M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="R1 - SafetyEdge Red Light" />
+        <Component Name="R1 - SafetyEdge Red Light output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Tunnel Real Meter" />
+        <Component Name="Tunnel Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -496,22 +496,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="PBB HOME" />
+        <Component Name="PBB HOME output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="PBB Autoleveler ON" />
+        <Component Name="PBB Autoleveler ON output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Start M" />
+        <Component Name="Start M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
@@ -522,17 +522,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="R50 - HMI Power" />
+        <Component Name="R50 - HMI Power output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="R51 - SafetyShoe Power" />
+        <Component Name="R51 - SafetyShoe Power output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="R4 - Mania Lights" />
+        <Component Name="R4 - Mania Lights output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />
@@ -716,62 +716,62 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Tunnel FW Em Stop LS M" />
+        <Component Name="Tunnel FW Em Stop LS M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Tunnel BW Em Stop LS M" />
+        <Component Name="Tunnel BW Em Stop LS M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Start M" />
+        <Component Name="Start M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="MC - Main Contactor" />
+        <Component Name="MC - Main Contactor output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Left Driver DI4 STO" />
+        <Component Name="Left Driver DI4 STO output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Left Driver DI5 STO" />
+        <Component Name="Left Driver DI5 STO output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Right Driver DI4 STO" />
+        <Component Name="Right Driver DI4 STO output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Right Driver DI5 STO" />
+        <Component Name="Right Driver DI5 STO output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Cab Driver DI4 STO" />
+        <Component Name="Cab Driver DI4 STO output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Cab Driver DI5 STO" />
+        <Component Name="Cab Driver DI5 STO output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="MC - Main Contactor" />
+        <Component Name="MC - Main Contactor output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
@@ -940,57 +940,57 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Drive Wheel Fuse" />
+        <Component Name="Drive Wheel Fuse input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Phase Relay - PCR" />
+        <Component Name="Phase Relay - PCR input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Wheel Drivers Fault" />
+        <Component Name="Wheel Drivers Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Service Air Active" />
+        <Component Name="Service Air Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="JS Mid M" />
+        <Component Name="JS Mid M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="SafetyBarrier Activated" />
+        <Component Name="SafetyBarrier Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -1052,7 +1052,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Button Reset" />
+        <Component Name="Button Reset input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
@@ -1326,42 +1326,42 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Fuse Hydraulic" />
+        <Component Name="Fuse Hydraulic input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Button PBB Up" />
+        <Component Name="Button PBB Up input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Wire Up Stop PBB Limit All" />
+        <Component Name="Wire Up Stop PBB Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="AutoLeveller Up" />
+        <Component Name="AutoLeveller Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="C1 - Hydraulic" />
+        <Component Name="C1 - Hydraulic output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="R12 - Valve Up" />
+        <Component Name="R12 - Valve Up output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="29">
@@ -1504,52 +1504,52 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Button Pbb Down" />
+        <Component Name="Button Pbb Down input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Down Stop PBB All" />
+        <Component Name="Down Stop PBB All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="AutoLeveller Down" />
+        <Component Name="AutoLeveller Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="R13 - Valve Down" />
+        <Component Name="R13 - Valve Down output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="R15 - Valve V4 &amp; V5 Columns Down" />
+        <Component Name="R15 - Valve V4 &amp; V5 Columns Down output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="R14 - Valve Em Down" />
+        <Component Name="R14 - Valve Em Down output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="31">
@@ -1708,27 +1708,27 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Drive Wheel Fuse" />
+        <Component Name="Drive Wheel Fuse input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Fuse Hydraulic" />
+        <Component Name="Fuse Hydraulic input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Fuse Cab" />
+        <Component Name="Fuse Cab input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Fuse AutoLeveller" />
+        <Component Name="Fuse AutoLeveller input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Fuse Problem Major" />
+        <Component Name="Fuse Problem Major Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -1743,122 +1743,122 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Fuse Cab Floor" />
+        <Component Name="Fuse Cab Floor input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Fuse Problem Minor" />
+        <Component Name="Fuse Problem Minor Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Fuse AutoLeveller" />
+        <Component Name="Fuse AutoLeveller input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="AutoLeveller Fault" />
+        <Component Name="AutoLeveller Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Driver Fault Left" />
+        <Component Name="Driver Fault Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Driver Error Left" />
+        <Component Name="Driver Error Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Driver Fault Right" />
+        <Component Name="Driver Fault Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Driver Error Right" />
+        <Component Name="Driver Error Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Cab Driver Fault" />
+        <Component Name="Cab Driver Fault input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Cabin Motor Driver Fault" />
+        <Component Name="Cabin Motor Driver Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="Driver Error Left" />
+        <Component Name="Driver Error Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Driver Error Right" />
+        <Component Name="Driver Error Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="Wheel Drivers Fault" />
+        <Component Name="Wheel Drivers Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="Fuse Problem Major" />
+        <Component Name="Fuse Problem Major Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="AutoLeveller Fault" />
+        <Component Name="AutoLeveller Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="Wheel Drivers Fault" />
+        <Component Name="Wheel Drivers Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="Cabin Motor Driver Fault" />
+        <Component Name="Cabin Motor Driver Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="SafetyShoe Siren&amp;Info" />
+        <Component Name="SafetyShoe Siren&amp;Info Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="Fault Occurred Major" />
+        <Component Name="Fault Occurred Major Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="Fuse Problem Minor" />
+        <Component Name="Fuse Problem Minor Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="50">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="Fault Occured Minor" />
+        <Component Name="Fault Occured Minor Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="52">
@@ -2248,42 +2248,42 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="SafetyShoe Siren&amp;Info" />
+        <Component Name="SafetyShoe Siren&amp;Info Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Wheel Drivers Fault" />
+        <Component Name="Wheel Drivers Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="SafetyBarrier Activated" />
+        <Component Name="SafetyBarrier Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="AutoLeveller Fault" />
+        <Component Name="AutoLeveller Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="SafetyShoe Long Press" />
+        <Component Name="SafetyShoe Long Press Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Cabin Motor Driver Fault" />
+        <Component Name="Cabin Motor Driver Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="29">
@@ -2293,7 +2293,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="CP - Reset Red Light" />
+        <Component Name="CP - Reset Red Light output" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="31">
@@ -2308,7 +2308,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Button Reset" />
+        <Component Name="Button Reset input" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="34">
@@ -2318,42 +2318,42 @@
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="SafetyShoe Siren&amp;Info" />
+        <Component Name="SafetyShoe Siren&amp;Info Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="SafetyBarrier Activated" />
+        <Component Name="SafetyBarrier Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Left Driver Fault" />
+        <Component Name="Left Driver Fault output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="Right Driver Fault" />
+        <Component Name="Right Driver Fault output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Cab Driver Fault Reset" />
+        <Component Name="Cab Driver Fault Reset output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="SafetyShoe Long Press" />
+        <Component Name="SafetyShoe Long Press Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="43" />
@@ -2629,137 +2629,137 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="PBB Off Mode" />
+        <Component Name="PBB Off Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Fault Occured Minor" />
+        <Component Name="Fault Occured Minor Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Fault Occurred Major" />
+        <Component Name="Fault Occurred Major Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="CP - Alarm Red Light" />
+        <Component Name="CP - Alarm Red Light output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="PBB Off Mode" />
+        <Component Name="PBB Off Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="CP - PBB Start Green Light" />
+        <Component Name="CP - PBB Start Green Light output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Fault Occurred Major" />
+        <Component Name="Fault Occurred Major Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Start M" />
+        <Component Name="Start M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="CP - Buzzer" />
+        <Component Name="CP - Buzzer output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="R6 - Cab Warning Light &amp; Buzzer Test" />
+        <Component Name="R6 - Cab Warning Light &amp; Buzzer Test Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="R7 - Motor Brake Left" />
+        <Component Name="R7 - Motor Brake Left output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Button PBB Up" />
+        <Component Name="Button PBB Up input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="C1 - Hydraulic" />
+        <Component Name="C1 - Hydraulic output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Button Pbb Down" />
+        <Component Name="Button Pbb Down input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="R13 - Valve Down" />
+        <Component Name="R13 - Valve Down output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="SafetyBarrier Activated" />
+        <Component Name="SafetyBarrier Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="R9 - Cabin Motor Brake" />
+        <Component Name="R9 - Cabin Motor Brake output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="AutoLeveller Fault" />
+        <Component Name="AutoLeveller Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="SafetyShoe Siren&amp;Info" />
+        <Component Name="SafetyShoe Siren&amp;Info Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="Start M" />
+        <Component Name="Start M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="R6 - Cab Warning Light &amp; Buzzer" />
+        <Component Name="R6 - Cab Warning Light &amp; Buzzer output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="R6 - Cab Warning Light &amp; Buzzer" />
+        <Component Name="R6 - Cab Warning Light &amp; Buzzer output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="Start M" />
+        <Component Name="Start M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="R3 - Left &amp; Right Warning Lights" />
+        <Component Name="R3 - Left &amp; Right Warning Lights output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="48" />
@@ -3094,47 +3094,47 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button Light Int" />
+        <Component Name="Button Light Int input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="CP - Button Int Lighting Light" />
+        <Component Name="CP - Button Int Lighting Light output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Button Light Int" />
+        <Component Name="Button Light Int input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Phase Relay - PCR" />
+        <Component Name="Phase Relay - PCR input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="C4 - Tunnel Lights UPS" />
+        <Component Name="C4 - Tunnel Lights UPS output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="C3 - Tunnel Lights" />
+        <Component Name="C3 - Tunnel Lights output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Phase Relay - PCR" />
+        <Component Name="Phase Relay - PCR input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="C3 - Tunnel Lights" />
+        <Component Name="C3 - Tunnel Lights output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="C4 - Tunnel Lights UPS" />
+        <Component Name="C4 - Tunnel Lights UPS output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="30" />
@@ -3277,12 +3277,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button Ext Light" />
+        <Component Name="Button Ext Light input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="C5 - Ext Lighting" />
+        <Component Name="C5 - Ext Lighting output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="23" />
@@ -3367,22 +3367,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="R20 - PBB On" />
+        <Component Name="R20 - PBB On output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Fault Occurred Major" />
+        <Component Name="Fault Occurred Major Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="R21 - PBB Error/Fault/Alarm" />
+        <Component Name="R21 - PBB Error/Fault/Alarm output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -3392,42 +3392,42 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="R22 - Autoleveller On" />
+        <Component Name="R22 - Autoleveller On output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="AutoLeveller Fault" />
+        <Component Name="AutoLeveller Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="R23 - AutoLeveller Fault" />
+        <Component Name="R23 - AutoLeveller Fault output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="R24 - SafetyShoe Activated" />
+        <Component Name="R24 - SafetyShoe Activated output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="PCA Active" />
+        <Component Name="PCA Active input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Rotunda Fire Detector" />
+        <Component Name="Rotunda Fire Detector input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="R25 - Fire Detector" />
+        <Component Name="R25 - Fire Detector output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />
@@ -3620,87 +3620,87 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="GPU1 Active" />
+        <Component Name="GPU1 Active input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="GPU1 Active OUT" />
+        <Component Name="GPU1 Active OUT output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="GPU2 Active" />
+        <Component Name="GPU2 Active input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="GPU2 Active OUT" />
+        <Component Name="GPU2 Active OUT output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="GPU1 Active" />
+        <Component Name="GPU1 Active input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="GPU2 Active" />
+        <Component Name="GPU2 Active input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Service GPU Active" />
+        <Component Name="Service GPU Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="PCA Active" />
+        <Component Name="PCA Active input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Service PCA Active" />
+        <Component Name="Service PCA Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="PCA Active OUT" />
+        <Component Name="PCA Active OUT output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Hose Active" />
+        <Component Name="Hose Active input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="sanal kesici (1)" />
+        <Component Name="sanal kesici (1) Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Service Hose Active" />
+        <Component Name="Service Hose Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Service GPU Active" />
+        <Component Name="Service GPU Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Service PCA Active" />
+        <Component Name="Service PCA Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Service Hose Active" />
+        <Component Name="Service Hose Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Service Air Active" />
+        <Component Name="Service Air Active Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="38" />

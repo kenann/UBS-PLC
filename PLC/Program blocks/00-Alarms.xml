@@ -62,7 +62,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Tunnel Laser FW Slow Limit" />
+        <Component Name="Tunnel Laser FW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -72,7 +72,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Tunnel LSW FW Slow" />
+        <Component Name="Tunnel LSW FW Slow Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -82,7 +82,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="PhotoCell Slow Limit" />
+        <Component Name="PhotoCell Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -92,7 +92,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="UltraSonic Slow Limit" />
+        <Component Name="UltraSonic Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -102,7 +102,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="FW Slow Limit All" />
+        <Component Name="FW Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -112,7 +112,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Laser BW Slow Limit" />
+        <Component Name="Tunnel Laser BW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -122,7 +122,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="LS BW Slow Limit" />
+        <Component Name="LS BW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
@@ -132,7 +132,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="BW Slow Limit All" />
+        <Component Name="BW Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
@@ -142,7 +142,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Laser FW Stop Limit" />
+        <Component Name="Tunnel Laser FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
@@ -152,7 +152,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="LS FW Stop Limit" />
+        <Component Name="LS FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
@@ -162,7 +162,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Touch LFT Stop Limit" />
+        <Component Name="Touch LFT Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
@@ -172,7 +172,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="Touch Mid Stop Limit" />
+        <Component Name="Touch Mid Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
@@ -182,7 +182,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="Touch RGTH Stop Limit" />
+        <Component Name="Touch RGTH Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
@@ -192,7 +192,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="FW Stop All" />
+        <Component Name="FW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="48">
@@ -202,7 +202,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="Tunnel FW Em Stop LS M" />
+        <Component Name="Tunnel FW Em Stop LS M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="50">
@@ -212,7 +212,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="Laser BW Stop Limit" />
+        <Component Name="Tunnel Laser BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="52">
@@ -222,7 +222,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="53">
       <Symbol>
-        <Component Name="LS BW Stop Limit" />
+        <Component Name="LS BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="54">
@@ -232,7 +232,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="55">
       <Symbol>
-        <Component Name="BW Stop All" />
+        <Component Name="BW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="56">
@@ -242,7 +242,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="57">
       <Symbol>
-        <Component Name="Tunnel BW Em Stop LS M" />
+        <Component Name="Tunnel BW Em Stop LS M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="58">
@@ -252,7 +252,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="59">
       <Symbol>
-        <Component Name="Slow Activated" />
+        <Component Name="Slow Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="60">
@@ -262,7 +262,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="61">
       <Symbol>
-        <Component Name="Drive Slow Limit All" />
+        <Component Name="Drive Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="62">
@@ -272,7 +272,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="63">
       <Symbol>
-        <Component Name="Wheel Drivers Fault" />
+        <Component Name="Wheel Drivers Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="64">
@@ -282,7 +282,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="65">
       <Symbol>
-        <Component Name="Drive Wheel Fuse" />
+        <Component Name="Drive Wheel Fuse input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="66">
@@ -292,7 +292,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="67">
       <Symbol>
-        <Component Name="Wire Up Stop PBB" />
+        <Component Name="Wire Up Stop PBB Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="68">
@@ -302,7 +302,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="69">
       <Symbol>
-        <Component Name="LS BW Stop Limit" />
+        <Component Name="LS BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="70">
@@ -312,7 +312,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="71">
       <Symbol>
-        <Component Name="Wire Up Stop PBB Limit All" />
+        <Component Name="Wire Up Stop PBB Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="72">
@@ -322,7 +322,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="73">
       <Symbol>
-        <Component Name="Wire Down Stop PBB" />
+        <Component Name="Wire Down Stop PBB Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="74">
@@ -332,7 +332,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="75">
       <Symbol>
-        <Component Name="Down Stop Object" />
+        <Component Name="Down Stop Object Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="76">
@@ -342,7 +342,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="77">
       <Symbol>
-        <Component Name="LS FW Stop Limit" />
+        <Component Name="LS FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="78">
@@ -352,7 +352,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="79">
       <Symbol>
-        <Component Name="Down Stop PBB All" />
+        <Component Name="Down Stop PBB All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="80">
@@ -362,7 +362,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="81">
       <Symbol>
-        <Component Name="SafetyShoe Activated" />
+        <Component Name="SafetyShoe Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="82">
@@ -372,7 +372,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="83">
       <Symbol>
-        <Component Name="SafetyShoe Long Press" />
+        <Component Name="SafetyShoe Long Press Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="84">
@@ -382,7 +382,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="85">
       <Symbol>
-        <Component Name="AutoLeveller Up Over Work" />
+        <Component Name="AutoLeveller Up Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="86">
@@ -392,7 +392,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="87">
       <Symbol>
-        <Component Name="AutoLeveller Up" />
+        <Component Name="AutoLeveller Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="88">
@@ -402,7 +402,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="89">
       <Symbol>
-        <Component Name="AutoLeveller Down Over Work" />
+        <Component Name="AutoLeveller Down Over Work Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="90">
@@ -412,7 +412,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="91">
       <Symbol>
-        <Component Name="AutoLeveller Down" />
+        <Component Name="AutoLeveller Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="92">
@@ -422,7 +422,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="93">
       <Symbol>
-        <Component Name="AutoLeveller Down Sensor" />
+        <Component Name="AutoLeveller Down Sensor input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="94">
@@ -432,7 +432,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="95">
       <Symbol>
-        <Component Name="Fuse Hydraulic" />
+        <Component Name="Fuse Hydraulic input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="96">
@@ -442,7 +442,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="97">
       <Symbol>
-        <Component Name="Button PBB Up" />
+        <Component Name="Button PBB Up input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="98">
@@ -452,7 +452,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="99">
       <Symbol>
-        <Component Name="Button Pbb Down" />
+        <Component Name="Button Pbb Down input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="100">
@@ -462,7 +462,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="101">
       <Symbol>
-        <Component Name="Fuse AutoLeveller" />
+        <Component Name="Fuse AutoLeveller input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="102">
@@ -472,7 +472,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="103">
       <Symbol>
-        <Component Name="PBB Off Mode" />
+        <Component Name="PBB Off Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="104">
@@ -482,7 +482,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="105">
       <Symbol>
-        <Component Name="PBB Auto Mode" />
+        <Component Name="PBB Auto Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="106">
@@ -492,7 +492,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="107">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="108">
@@ -502,7 +502,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="109">
       <Symbol>
-        <Component Name="PBB On Mode" />
+        <Component Name="PBB On Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="110">
@@ -522,7 +522,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="113">
       <Symbol>
-        <Component Name="Fault Occurred Major" />
+        <Component Name="Fault Occurred Major Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="114">
@@ -532,7 +532,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="115">
       <Symbol>
-        <Component Name="SafetyBarrier Activated" />
+        <Component Name="SafetyBarrier Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="116">
@@ -542,7 +542,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="117">
       <Symbol>
-        <Component Name="Phase Relay - PCR" />
+        <Component Name="Phase Relay - PCR input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="118">
@@ -1355,7 +1355,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Drive Slow Left Limit" />
+        <Component Name="Drive Slow Left Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -1365,7 +1365,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Drive LSW Left Stop" />
+        <Component Name="Drive LSW Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -1375,7 +1375,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Drive Angle Stop Left" />
+        <Component Name="Drive Angle Stop Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -1385,7 +1385,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="LFT Stop All" />
+        <Component Name="LFT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -1395,7 +1395,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Drive Slow Right Limit" />
+        <Component Name="Drive Slow Right Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -1405,7 +1405,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Drive LSW Right Stop" />
+        <Component Name="Drive LSW Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -1415,7 +1415,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Drive Angle Stop Right" />
+        <Component Name="Drive Angle Stop Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
@@ -1425,7 +1425,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="RGHT Stop All" />
+        <Component Name="RGHT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
@@ -1435,7 +1435,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Drive Angle LS FW Stop" />
+        <Component Name="Drive Angle LS FW Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
@@ -1445,7 +1445,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Drive Angle LS BW Stop" />
+        <Component Name="Drive Angle LS BW Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
@@ -1665,7 +1665,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Slope Stop All" />
+        <Component Name="Slope Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -1675,7 +1675,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Slope Slow Down" />
+        <Component Name="Slope Slow Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -1685,7 +1685,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Slope Stop All" />
+        <Component Name="Slope Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -1695,7 +1695,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Slope Slow Up" />
+        <Component Name="Slope Slow Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -1705,7 +1705,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Slope Stop Up" />
+        <Component Name="Slope Stop Up Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -1715,7 +1715,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Slope Stop Down" />
+        <Component Name="Slope Stop Down Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -1875,7 +1875,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Rotunda Slow Angle LFT" />
+        <Component Name="Rotunda Slow Angle LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -1885,7 +1885,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Rotunda Slow Angle Rght" />
+        <Component Name="Rotunda Slow Angle Rght Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -1895,7 +1895,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Rotunda Slow Angle ALL" />
+        <Component Name="Rotunda Slow Angle ALL Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -1905,7 +1905,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Rotunda Stop Angle LFT" />
+        <Component Name="Rotunda Stop Angle LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -1915,7 +1915,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Rotunda Stop LS LFT" />
+        <Component Name="Rotunda Stop LS LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -1925,7 +1925,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Rotunda FW Stop LFT" />
+        <Component Name="Rotunda FW Stop LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -1935,7 +1935,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Rotunda BW Stop LFT" />
+        <Component Name="Rotunda BW Stop LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
@@ -1945,7 +1945,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Rotunda Stop Angle Rght" />
+        <Component Name="Rotunda Stop Angle Rght Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
@@ -1955,7 +1955,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Rotunda Stop LS Rght" />
+        <Component Name="Rotunda Stop LS Rght Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
@@ -1965,7 +1965,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Rotunda FW Stop RGHT" />
+        <Component Name="Rotunda FW Stop RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
@@ -1975,7 +1975,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Rotunda BW Stop RGHT" />
+        <Component Name="Rotunda BW Stop RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
@@ -1985,7 +1985,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="Rotunda FW Stop All" />
+        <Component Name="Rotunda FW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
@@ -1995,7 +1995,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="Rotunda BW Stop All" />
+        <Component Name="Rotunda BW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
@@ -2260,7 +2260,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Em Stop Left" />
+        <Component Name="Em Stop Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -2270,7 +2270,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Em Stop Right" />
+        <Component Name="Em Stop Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -2280,7 +2280,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Em Stop Button" />
+        <Component Name="Em Stop Button input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -2290,7 +2290,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Emergency Stop Button Pressed" />
+        <Component Name="Emergency Stop Button Pressed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -2426,7 +2426,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Cab LS Left Stop" />
+        <Component Name="Cab LS Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -2436,7 +2436,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Cab Angle Left Stop" />
+        <Component Name="Cab Angle Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -2446,7 +2446,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Cab Stop Left All" />
+        <Component Name="Cab Stop Left All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -2456,7 +2456,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Cab LS Right Stop" />
+        <Component Name="Cab LS Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -2466,7 +2466,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Cab Angle Right Stop" />
+        <Component Name="Cab Angle Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -2476,7 +2476,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Cab Stop Right All" />
+        <Component Name="Cab Stop Right All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -2486,7 +2486,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Cabin Motor Driver Fault" />
+        <Component Name="Cabin Motor Driver Fault Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
@@ -2496,7 +2496,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Fuse Cab" />
+        <Component Name="Fuse Cab input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
@@ -2506,7 +2506,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Cab Button Left" />
+        <Component Name="Cab Button Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
@@ -2516,7 +2516,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Cab Button Right" />
+        <Component Name="Cab Button Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
@@ -2526,7 +2526,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Cab Floor FW" />
+        <Component Name="Cab Floor FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
@@ -2536,7 +2536,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="Cab Floor BW" />
+        <Component Name="Cab Floor BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
@@ -2546,7 +2546,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="Fuse Cab Floor" />
+        <Component Name="Fuse Cab Floor input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
@@ -2815,7 +2815,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Canopy Touch Left" />
+        <Component Name="Canopy Touch Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -2825,7 +2825,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Canopy Touch Right" />
+        <Component Name="Canopy Touch Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -2835,7 +2835,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Fuse Left Canopy" />
+        <Component Name="Fuse Left Canopy input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -2845,7 +2845,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Fuse Right Canopy" />
+        <Component Name="Fuse Right Canopy input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -2855,7 +2855,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Canopy Button BW" />
+        <Component Name="Canopy Button BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -2865,7 +2865,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Canopy Button FW" />
+        <Component Name="Canopy Button FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -3085,7 +3085,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Service Hose Active" />
+        <Component Name="Service Hose Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -3095,7 +3095,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Service GPU Active" />
+        <Component Name="Service GPU Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -3105,7 +3105,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Service PCA Active" />
+        <Component Name="Service PCA Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -3115,7 +3115,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Service Air Active" />
+        <Component Name="Service Air Active Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -3125,7 +3125,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="PBB HOME" />
+        <Component Name="PBB HOME output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">

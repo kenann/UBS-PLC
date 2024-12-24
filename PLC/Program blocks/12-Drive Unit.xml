@@ -75,7 +75,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Drive Angle" />
+        <Component Name="Drive Angle input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -108,7 +108,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Drive Angle Real Meter" />
+        <Component Name="Drive Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Part Name="Normalize" UId="29" DisabledENO="true">
@@ -218,12 +218,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Drive Angle Real Meter" />
+        <Component Name="Drive Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -239,32 +239,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Drive Angle Stop Left" />
+        <Component Name="Drive Angle Stop Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Drive LSW Stop Left" />
+        <Component Name="Drive LSW Stop Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Drive LSW Left Stop" />
+        <Component Name="Drive LSW Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Drive Angle Stop Left" />
+        <Component Name="Drive Angle Stop Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Drive LSW Left Stop" />
+        <Component Name="Drive LSW Left Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="LFT Stop All" />
+        <Component Name="LFT Stop All Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="31">
@@ -428,12 +428,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Drive Angle Real Meter" />
+        <Component Name="Drive Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -449,32 +449,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Drive Angle Stop Right" />
+        <Component Name="Drive Angle Stop Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Drive LSW Stop Right" />
+        <Component Name="Drive LSW Stop Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Drive LSW Right Stop" />
+        <Component Name="Drive LSW Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Drive Angle Stop Right" />
+        <Component Name="Drive Angle Stop Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Drive LSW Right Stop" />
+        <Component Name="Drive LSW Right Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="RGHT Stop All" />
+        <Component Name="RGHT Stop All Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="31">
@@ -672,7 +672,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Drive Angle Real Meter" />
+        <Component Name="Drive Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="LocalVariable" UId="28">
@@ -682,12 +682,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Drive Slow Left Limit" />
+        <Component Name="Drive Slow Left Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Drive Angle Real Meter" />
+        <Component Name="Drive Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="LocalVariable" UId="31">
@@ -697,17 +697,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Drive Slow Right Limit" />
+        <Component Name="Drive Slow Right Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Drive Slow Left Limit" />
+        <Component Name="Drive Slow Left Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Drive Slow Right Limit" />
+        <Component Name="Drive Slow Right Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="35">
@@ -717,7 +717,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Drive Slow Limit All" />
+        <Component Name="Drive Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Part Name="Add" UId="37" DisabledENO="true">

@@ -13,7 +13,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I0.0</LogicalAddress>
-          <Name>Driver Alarm Left</Name>
+          <Name>Driver Alarm Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2" CompositionName="Comment">
@@ -47,7 +47,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I0.1</LogicalAddress>
-          <Name>Driver Fault Left</Name>
+          <Name>Driver Fault Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7" CompositionName="Comment">
@@ -81,7 +81,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I0.2</LogicalAddress>
-          <Name>Driver Alarm Right</Name>
+          <Name>Driver Alarm Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C" CompositionName="Comment">
@@ -115,7 +115,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I0.3</LogicalAddress>
-          <Name>Driver Fault Right</Name>
+          <Name>Driver Fault Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11" CompositionName="Comment">
@@ -149,7 +149,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I0.5</LogicalAddress>
-          <Name>Cab Driver Fault</Name>
+          <Name>Cab Driver Fault input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16" CompositionName="Comment">
@@ -183,7 +183,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I2.0</LogicalAddress>
-          <Name>Drive LSW Stop Left</Name>
+          <Name>Drive LSW Stop Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="1B" CompositionName="Comment">
@@ -217,7 +217,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I2.1</LogicalAddress>
-          <Name>Drive LSW Stop Right</Name>
+          <Name>Drive LSW Stop Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="20" CompositionName="Comment">
@@ -251,7 +251,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I2.4</LogicalAddress>
-          <Name>SafetyEdge</Name>
+          <Name>SafetyEdge input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="25" CompositionName="Comment">
@@ -285,7 +285,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I2.2</LogicalAddress>
-          <Name>Em Stop Left</Name>
+          <Name>Em Stop Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2A" CompositionName="Comment">
@@ -319,7 +319,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I2.3</LogicalAddress>
-          <Name>Em Stop Right</Name>
+          <Name>Em Stop Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2F" CompositionName="Comment">
@@ -353,7 +353,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I2.7</LogicalAddress>
-          <Name>Canopy Touch Left</Name>
+          <Name>Canopy Touch Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="34" CompositionName="Comment">
@@ -387,7 +387,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.0</LogicalAddress>
-          <Name>Canopy Touch Right</Name>
+          <Name>Canopy Touch Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="39" CompositionName="Comment">
@@ -421,7 +421,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.1</LogicalAddress>
-          <Name>Bumper Touch Left</Name>
+          <Name>Bumper Touch Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="3E" CompositionName="Comment">
@@ -455,7 +455,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.2</LogicalAddress>
-          <Name>Bumper Touch Mid</Name>
+          <Name>Bumper Touch Mid input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="43" CompositionName="Comment">
@@ -489,7 +489,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.3</LogicalAddress>
-          <Name>Bumper Touch Right</Name>
+          <Name>Bumper Touch Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="48" CompositionName="Comment">
@@ -523,7 +523,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.4</LogicalAddress>
-          <Name>PhotoCell for AirCraft</Name>
+          <Name>PhotoCell for AirCraft input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="4D" CompositionName="Comment">
@@ -557,7 +557,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.5</LogicalAddress>
-          <Name>UltraSonic for AirCraft</Name>
+          <Name>UltraSonic for AirCraft input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="52" CompositionName="Comment">
@@ -591,7 +591,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.6</LogicalAddress>
-          <Name>UltraSonic for Object</Name>
+          <Name>UltraSonic for Object input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="57" CompositionName="Comment">
@@ -625,7 +625,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I3.7</LogicalAddress>
-          <Name>AutoLeveller Touch</Name>
+          <Name>AutoLeveller Touch input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="5C" CompositionName="Comment">
@@ -659,7 +659,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I4.0</LogicalAddress>
-          <Name>AutoLeveller Up Sensor</Name>
+          <Name>AutoLeveller Up Sensor input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="61" CompositionName="Comment">
@@ -693,7 +693,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I4.1</LogicalAddress>
-          <Name>AutoLeveller Down Sensor</Name>
+          <Name>AutoLeveller Down Sensor input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="66" CompositionName="Comment">
@@ -727,7 +727,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I4.4</LogicalAddress>
-          <Name>Cabin LSW Left</Name>
+          <Name>Cabin LSW Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="6B" CompositionName="Comment">
@@ -761,7 +761,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I4.5</LogicalAddress>
-          <Name>Cabin LSW Right</Name>
+          <Name>Cabin LSW Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="70" CompositionName="Comment">
@@ -795,7 +795,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I15.5</LogicalAddress>
-          <Name>PCA Active</Name>
+          <Name>PCA Active input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="75" CompositionName="Comment">
@@ -829,7 +829,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I4.6</LogicalAddress>
-          <Name>Rotunda LSW Left Stop</Name>
+          <Name>Rotunda LSW Left Stop input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7A" CompositionName="Comment">
@@ -863,7 +863,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I4.7</LogicalAddress>
-          <Name>Rotunda LSW Right Stop</Name>
+          <Name>Rotunda LSW Right Stop input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7F" CompositionName="Comment">
@@ -1101,7 +1101,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.0</LogicalAddress>
-          <Name>Rotunda Fire Detector</Name>
+          <Name>Rotunda Fire Detector input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="A2" CompositionName="Comment">
@@ -1135,7 +1135,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.7</LogicalAddress>
-          <Name>Drive Wheel Fuse</Name>
+          <Name>Drive Wheel Fuse input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="A7" CompositionName="Comment">
@@ -1169,7 +1169,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.1</LogicalAddress>
-          <Name>Fuse Hydraulic</Name>
+          <Name>Fuse Hydraulic input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="AC" CompositionName="Comment">
@@ -1203,7 +1203,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.2</LogicalAddress>
-          <Name>Fuse Cab</Name>
+          <Name>Fuse Cab input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B1" CompositionName="Comment">
@@ -1237,7 +1237,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I7.0</LogicalAddress>
-          <Name>Phase Relay - PCR</Name>
+          <Name>Phase Relay - PCR input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B6" CompositionName="Comment">
@@ -1271,7 +1271,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I10.0</LogicalAddress>
-          <Name>SafetyShoe-1</Name>
+          <Name>SafetyShoe-1 input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="BB" CompositionName="Comment">
@@ -1305,7 +1305,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I10.1</LogicalAddress>
-          <Name>SafetyShoe-2</Name>
+          <Name>SafetyShoe-2 input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C0" CompositionName="Comment">
@@ -1339,7 +1339,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I10.3</LogicalAddress>
-          <Name>Fuse Left Canopy</Name>
+          <Name>Fuse Left Canopy input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C5" CompositionName="Comment">
@@ -1373,7 +1373,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I10.4</LogicalAddress>
-          <Name>Fuse Right Canopy</Name>
+          <Name>Fuse Right Canopy input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="CA" CompositionName="Comment">
@@ -1407,7 +1407,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I10.2</LogicalAddress>
-          <Name>Fuse Cab Floor</Name>
+          <Name>Fuse Cab Floor input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="CF" CompositionName="Comment">
@@ -1441,7 +1441,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I10.5</LogicalAddress>
-          <Name>Fuse AutoLeveller</Name>
+          <Name>Fuse AutoLeveller input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="D4" CompositionName="Comment">
@@ -1475,7 +1475,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.0</LogicalAddress>
-          <Name>Button ByPass</Name>
+          <Name>Button ByPass input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="D9" CompositionName="Comment">
@@ -1509,7 +1509,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.1</LogicalAddress>
-          <Name>Button Reset</Name>
+          <Name>Button Reset input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="DE" CompositionName="Comment">
@@ -1543,7 +1543,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.2</LogicalAddress>
-          <Name>Button Light Int</Name>
+          <Name>Button Light Int input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="E3" CompositionName="Comment">
@@ -1577,7 +1577,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.3</LogicalAddress>
-          <Name>Button Ext Light</Name>
+          <Name>Button Ext Light input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="E8" CompositionName="Comment">
@@ -1611,7 +1611,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.4</LogicalAddress>
-          <Name>Button BackUp</Name>
+          <Name>Button BackUp input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="ED" CompositionName="Comment">
@@ -1645,7 +1645,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.5</LogicalAddress>
-          <Name>Em Stop Button</Name>
+          <Name>Em Stop Button input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="F2" CompositionName="Comment">
@@ -1679,7 +1679,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.7</LogicalAddress>
-          <Name>Key-1 ON</Name>
+          <Name>Key-1 ON input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="F7" CompositionName="Comment">
@@ -1713,7 +1713,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I11.6</LogicalAddress>
-          <Name>Key-2 OFF</Name>
+          <Name>Key-2 OFF input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="FC" CompositionName="Comment">
@@ -1747,7 +1747,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.0</LogicalAddress>
-          <Name>Cab Button Left</Name>
+          <Name>Cab Button Left input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="101" CompositionName="Comment">
@@ -1781,7 +1781,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.1</LogicalAddress>
-          <Name>Cab Button Right</Name>
+          <Name>Cab Button Right input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="106" CompositionName="Comment">
@@ -1815,7 +1815,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.2</LogicalAddress>
-          <Name>Button PBB Up</Name>
+          <Name>Button PBB Up input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="10B" CompositionName="Comment">
@@ -1849,7 +1849,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.3</LogicalAddress>
-          <Name>Button Pbb Down</Name>
+          <Name>Button Pbb Down input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="110" CompositionName="Comment">
@@ -1883,7 +1883,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.5</LogicalAddress>
-          <Name>Canopy Button BW</Name>
+          <Name>Canopy Button BW input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="115" CompositionName="Comment">
@@ -1917,7 +1917,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.4</LogicalAddress>
-          <Name>Canopy Button FW</Name>
+          <Name>Canopy Button FW input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11A" CompositionName="Comment">
@@ -1951,7 +1951,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.6</LogicalAddress>
-          <Name>Cab Floor FW</Name>
+          <Name>Cab Floor FW input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11F" CompositionName="Comment">
@@ -1985,7 +1985,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I12.7</LogicalAddress>
-          <Name>Cab Floor BW</Name>
+          <Name>Cab Floor BW input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="124" CompositionName="Comment">
@@ -2019,7 +2019,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.0</LogicalAddress>
-          <Name>JoyStick X22 L2</Name>
+          <Name>JoyStick X22 L2 input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="129" CompositionName="Comment">
@@ -2053,7 +2053,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.1</LogicalAddress>
-          <Name>JoyStick X33 FW</Name>
+          <Name>JoyStick X33 FW input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="12E" CompositionName="Comment">
@@ -2087,7 +2087,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.2</LogicalAddress>
-          <Name>JoyStick X44 L3</Name>
+          <Name>JoyStick X44 L3 input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="133" CompositionName="Comment">
@@ -2121,7 +2121,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.3</LogicalAddress>
-          <Name>JoyStick X55 BW</Name>
+          <Name>JoyStick X55 BW input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="138" CompositionName="Comment">
@@ -2155,7 +2155,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.4</LogicalAddress>
-          <Name>JoyStick Y22 L2</Name>
+          <Name>JoyStick Y22 L2 input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="13D" CompositionName="Comment">
@@ -2189,7 +2189,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.5</LogicalAddress>
-          <Name>JoyStick Y33 RGHT</Name>
+          <Name>JoyStick Y33 RGHT input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="142" CompositionName="Comment">
@@ -2223,7 +2223,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.6</LogicalAddress>
-          <Name>JoyStick Y44 L3</Name>
+          <Name>JoyStick Y44 L3 input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="147" CompositionName="Comment">
@@ -2257,7 +2257,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I13.7</LogicalAddress>
-          <Name>JoyStick Y55 LFT</Name>
+          <Name>JoyStick Y55 LFT input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="14C" CompositionName="Comment">
@@ -2291,7 +2291,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I14.0</LogicalAddress>
-          <Name>JoyStick 91 Brake</Name>
+          <Name>JoyStick 91 Brake input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="151" CompositionName="Comment">
@@ -2325,7 +2325,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.3</LogicalAddress>
-          <Name>Fuse 1Power Supply</Name>
+          <Name>Fuse 1Power Supply input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="156" CompositionName="Comment">
@@ -2359,7 +2359,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.4</LogicalAddress>
-          <Name>Fuse 2Power Supply</Name>
+          <Name>Fuse 2Power Supply input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="15B" CompositionName="Comment">
@@ -2393,7 +2393,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.5</LogicalAddress>
-          <Name>Fuse Phase Control Relay</Name>
+          <Name>Fuse Phase Control Relay input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="160" CompositionName="Comment">
@@ -2427,7 +2427,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I15.3</LogicalAddress>
-          <Name>GPU2 Active</Name>
+          <Name>GPU2 Active input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="165" CompositionName="Comment">
@@ -2461,7 +2461,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I4.3</LogicalAddress>
-          <Name>Fire Detector Cabin</Name>
+          <Name>Fire Detector Cabin input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16A" CompositionName="Comment">
@@ -2495,7 +2495,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.6</LogicalAddress>
-          <Name>Fuse Hose Ritriver</Name>
+          <Name>Fuse Hose Ritriver input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16F" CompositionName="Comment">
@@ -2529,7 +2529,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I7.5</LogicalAddress>
-          <Name>Fuse</Name>
+          <Name>Fuse input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="174" CompositionName="Comment">
@@ -2563,7 +2563,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I15.6</LogicalAddress>
-          <Name>PCA Error</Name>
+          <Name>PCA Error input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="179" CompositionName="Comment">
@@ -2597,7 +2597,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I15.4</LogicalAddress>
-          <Name>GPU2 Error</Name>
+          <Name>GPU2 Error input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="17E" CompositionName="Comment">
@@ -2631,7 +2631,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I15.1</LogicalAddress>
-          <Name>GPU1 Active</Name>
+          <Name>GPU1 Active input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="183" CompositionName="Comment">
@@ -2665,7 +2665,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I15.2</LogicalAddress>
-          <Name>GPU1 Error</Name>
+          <Name>GPU1 Error input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="188" CompositionName="Comment">
@@ -2699,7 +2699,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I15.7</LogicalAddress>
-          <Name>Hose Active</Name>
+          <Name>Hose Active input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="18D" CompositionName="Comment">
@@ -2717,40 +2717,6 @@
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="190" CompositionName="Items">
-                <AttributeList>
-                  <Culture>tr-TR</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-            </ObjectList>
-          </MultilingualText>
-        </ObjectList>
-      </SW.Tags.PlcTag>
-      <SW.Tags.PlcTag ID="191" CompositionName="Tags">
-        <AttributeList>
-          <DataTypeName>Bool</DataTypeName>
-          <ExternalAccessible>true</ExternalAccessible>
-          <ExternalVisible>true</ExternalVisible>
-          <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I16.0</LogicalAddress>
-          <Name>git test</Name>
-        </AttributeList>
-        <ObjectList>
-          <MultilingualText ID="192" CompositionName="Comment">
-            <ObjectList>
-              <MultilingualTextItem ID="193" CompositionName="Items">
-                <AttributeList>
-                  <Culture>en-US</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-              <MultilingualTextItem ID="194" CompositionName="Items">
-                <AttributeList>
-                  <Culture>ru-RU</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-              <MultilingualTextItem ID="195" CompositionName="Items">
                 <AttributeList>
                   <Culture>tr-TR</Culture>
                   <Text />

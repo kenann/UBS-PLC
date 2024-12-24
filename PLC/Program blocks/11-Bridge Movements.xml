@@ -62,7 +62,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="JoyStick 91 Brake" />
+        <Component Name="JoyStick 91 Brake input" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="22">
@@ -72,7 +72,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="JS Mid M" />
+        <Component Name="JS Mid M Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="24" />
@@ -170,187 +170,187 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="JoyStick X33 FW" />
+        <Component Name="JoyStick X33 FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="FW L2" />
+        <Component Name="FW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="FW L3" />
+        <Component Name="FW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="FW L1" />
+        <Component Name="FW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="JoyStick X22 L2" />
+        <Component Name="JoyStick X22 L2 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="FW L3" />
+        <Component Name="FW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="FW L2" />
+        <Component Name="FW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="JoyStick X44 L3" />
+        <Component Name="JoyStick X44 L3 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="FW L3" />
+        <Component Name="FW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="JoyStick X55 BW" />
+        <Component Name="JoyStick X55 BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="BW L2" />
+        <Component Name="BW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="BW L3" />
+        <Component Name="BW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="BW L1" />
+        <Component Name="BW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="JoyStick X22 L2" />
+        <Component Name="JoyStick X22 L2 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="BW L3" />
+        <Component Name="BW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="BW L2" />
+        <Component Name="BW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="JoyStick X44 L3" />
+        <Component Name="JoyStick X44 L3 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="BW L3" />
+        <Component Name="BW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="JoyStick Y55 LFT" />
+        <Component Name="JoyStick Y55 LFT input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="LFT L2" />
+        <Component Name="LFT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="LFT L1" />
+        <Component Name="LFT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="JoyStick Y22 L2" />
+        <Component Name="JoyStick Y22 L2 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="LFT L2" />
+        <Component Name="LFT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="JoyStick Y44 L3" />
+        <Component Name="JoyStick Y44 L3 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="JoyStick Y33 RGHT" />
+        <Component Name="JoyStick Y33 RGHT input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="50">
       <Symbol>
-        <Component Name="RGHT L2" />
+        <Component Name="RGHT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="52">
       <Symbol>
-        <Component Name="RGHT L1" />
+        <Component Name="RGHT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="53">
       <Symbol>
-        <Component Name="JoyStick Y22 L2" />
+        <Component Name="JoyStick Y22 L2 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="54">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="55">
       <Symbol>
-        <Component Name="RGHT L2" />
+        <Component Name="RGHT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="56">
       <Symbol>
-        <Component Name="JoyStick Y44 L3" />
+        <Component Name="JoyStick Y44 L3 input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="57">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="58" />
@@ -736,157 +736,157 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="FW L1" />
+        <Component Name="FW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="FW L2" />
+        <Component Name="FW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="FW L3" />
+        <Component Name="FW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="FW M" />
+        <Component Name="FW M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="BW L1" />
+        <Component Name="BW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="BW L2" />
+        <Component Name="BW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="BW L3" />
+        <Component Name="BW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="BW M" />
+        <Component Name="BW M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="FW M" />
+        <Component Name="FW M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="LFT L1" />
+        <Component Name="LFT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="LFT L2" />
+        <Component Name="LFT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="FW-LFT" />
+        <Component Name="FW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="RGHT L1" />
+        <Component Name="RGHT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="RGHT L2" />
+        <Component Name="RGHT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="FW-RGHT" />
+        <Component Name="FW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="BW M" />
+        <Component Name="BW M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="LFT L1" />
+        <Component Name="LFT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="LFT L2" />
+        <Component Name="LFT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="BW-LFT" />
+        <Component Name="BW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="RGHT L1" />
+        <Component Name="RGHT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="RGHT L2" />
+        <Component Name="RGHT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="BW-RGHT" />
+        <Component Name="BW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="FW-LFT" />
+        <Component Name="FW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="FW-RGHT" />
+        <Component Name="FW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="BW-LFT" />
+        <Component Name="BW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="50">
       <Symbol>
-        <Component Name="BW-RGHT" />
+        <Component Name="BW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="52" />
@@ -1273,7 +1273,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Slow Activated" />
+        <Component Name="Slow Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -1284,7 +1284,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -1295,7 +1295,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -1306,12 +1306,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Slow Activated" />
+        <Component Name="Slow Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
@@ -1328,7 +1328,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -1345,7 +1345,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
@@ -1362,7 +1362,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="38">
@@ -1531,77 +1531,77 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="FW L3" />
+        <Component Name="FW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="BW L3" />
+        <Component Name="BW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Fast Mode" />
+        <Component Name="Fast Mode Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Speed Active L3" />
+        <Component Name="Speed Active L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="FW L2" />
+        <Component Name="FW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="BW L2" />
+        <Component Name="BW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="LFT L2" />
+        <Component Name="LFT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="RGHT L2" />
+        <Component Name="RGHT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="FW L1" />
+        <Component Name="FW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="BW L1" />
+        <Component Name="BW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="LFT L1" />
+        <Component Name="LFT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="RGHT L1" />
+        <Component Name="RGHT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Speed Active L2" />
+        <Component Name="Speed Active L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
@@ -1612,12 +1612,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Slow Mode" />
+        <Component Name="Slow Mode input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Speed Active L1" />
+        <Component Name="Speed Active L1 Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="39" />
@@ -1862,37 +1862,37 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Drive Slow Limit All" />
+        <Component Name="Drive Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="FW Slow Limit All" />
+        <Component Name="FW Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="BW Slow Limit All" />
+        <Component Name="BW Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Rotunda Slow Angle ALL" />
+        <Component Name="Rotunda Slow Angle ALL Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Slope Slow ALL" />
+        <Component Name="Slope Slow ALL Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Slow Activated" />
+        <Component Name="Slow Activated Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="28" />
@@ -2029,7 +2029,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Tunnel Real Meter" />
+        <Component Name="Tunnel Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -2040,7 +2040,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Tunnel Laser FW Slow Limit" />
+        <Component Name="Tunnel Laser FW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -2050,27 +2050,27 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Tunnel LSW FW Slow" />
+        <Component Name="Tunnel LSW FW Slow Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="BW L1" />
+        <Component Name="BW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="PhotoCell for AirCraft" />
+        <Component Name="PhotoCell for AirCraft input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="PhotoCell Slow Limit" />
+        <Component Name="PhotoCell Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="UltraSonic for AirCraft" />
+        <Component Name="UltraSonic for AirCraft input" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="30">
@@ -2080,32 +2080,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="sanal kesici (1)" />
+        <Component Name="sanal kesici (1) Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="UltraSonic Slow Limit" />
+        <Component Name="UltraSonic Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Tunnel Laser FW Slow Limit" />
+        <Component Name="Tunnel Laser FW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Tunnel LSW FW Slow" />
+        <Component Name="Tunnel LSW FW Slow Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="PhotoCell Slow Limit" />
+        <Component Name="PhotoCell Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="UltraSonic Slow Limit" />
+        <Component Name="UltraSonic Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="37">
@@ -2115,22 +2115,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="FW Slow Limit All" />
+        <Component Name="FW Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="PhotoCell Slow Limit" />
+        <Component Name="PhotoCell Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="UltraSonic Slow Limit" />
+        <Component Name="UltraSonic Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="AirCraft Seen Anime" />
+        <Component Name="AirCraft Seen Anime Memo" />
       </Symbol>
     </Access>
     <Part Name="Ge" UId="42">
@@ -2403,7 +2403,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Tunnel Real Meter" />
+        <Component Name="Tunnel Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -2414,7 +2414,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Tunnel Laser BW Slow Limit" />
+        <Component Name="Tunnel Laser BW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -2424,17 +2424,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="LS BW Slow Limit" />
+        <Component Name="LS BW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Tunnel Laser BW Slow Limit" />
+        <Component Name="Tunnel Laser BW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="LS BW Slow Limit" />
+        <Component Name="LS BW Slow Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="28">
@@ -2444,7 +2444,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="BW Slow Limit All" />
+        <Component Name="BW Slow Limit All Memo" />
       </Symbol>
     </Access>
     <Part Name="Le" UId="30">
@@ -2597,12 +2597,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Tunnel Real Meter" />
+        <Component Name="Tunnel Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -2613,12 +2613,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Tunnel Laser FW Stop Limit" />
+        <Component Name="Tunnel Laser FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Drive Angle Real Meter" />
+        <Component Name="Drive Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="26">
@@ -2629,7 +2629,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Drive Angle LS FW Stop" />
+        <Component Name="Drive Angle LS FW Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -2639,82 +2639,82 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="LS FW Stop Limit" />
+        <Component Name="LS FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Bumper Touch Left" />
+        <Component Name="Bumper Touch Left input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Touch LFT Stop Limit" />
+        <Component Name="Touch LFT Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Bumper Touch Mid" />
+        <Component Name="Bumper Touch Mid input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Touch Mid Stop Limit" />
+        <Component Name="Touch Mid Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Bumper Touch Right" />
+        <Component Name="Bumper Touch Right input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Touch RGTH Stop Limit" />
+        <Component Name="Touch RGTH Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="Tunnel Laser FW Stop Limit" />
+        <Component Name="Tunnel Laser FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Drive Angle LS FW Stop" />
+        <Component Name="Drive Angle LS FW Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="LS FW Stop Limit" />
+        <Component Name="LS FW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Touch LFT Stop Limit" />
+        <Component Name="Touch LFT Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="Touch Mid Stop Limit" />
+        <Component Name="Touch Mid Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Touch RGTH Stop Limit" />
+        <Component Name="Touch RGTH Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="Rotunda FW Stop All" />
+        <Component Name="Rotunda FW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="Down Stop PBB All" />
+        <Component Name="Down Stop PBB All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="Slope Stop All" />
+        <Component Name="Slope Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="45">
@@ -2724,22 +2724,22 @@
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="FW Stop All" />
+        <Component Name="FW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="Touch LFT Stop Limit" />
+        <Component Name="Touch LFT Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="Touch RGTH Stop Limit" />
+        <Component Name="Touch RGTH Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="Touch Mid Stop Limit" />
+        <Component Name="Touch Mid Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="50">
@@ -2749,7 +2749,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="AirCraft Touch Anime" />
+        <Component Name="AirCraft Touch Anime Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="52">
@@ -3109,12 +3109,12 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Tunnel Real Meter" />
+        <Component Name="Tunnel Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -3125,12 +3125,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Tunnel Laser BW Stop Limit" />
+        <Component Name="Tunnel Laser BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Drive Angle Real Meter" />
+        <Component Name="Drive Angle Real Meter Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="26">
@@ -3141,7 +3141,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Drive Angle LS BW Stop" />
+        <Component Name="Drive Angle LS BW Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -3151,32 +3151,32 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="LS BW Stop Limit" />
+        <Component Name="LS BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Tunnel Laser BW Stop Limit" />
+        <Component Name="Tunnel Laser BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Drive Angle LS BW Stop" />
+        <Component Name="Drive Angle LS BW Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="LS BW Stop Limit" />
+        <Component Name="LS BW Stop Limit Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Rotunda BW Stop All" />
+        <Component Name="Rotunda BW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Slope Stop All" />
+        <Component Name="Slope Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="35">
@@ -3186,7 +3186,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="BW Stop All" />
+        <Component Name="BW Stop All Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="37">
@@ -3401,122 +3401,122 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="FW Stop All" />
+        <Component Name="FW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="FW Allowed" />
+        <Component Name="FW Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="FW Allowed" />
+        <Component Name="FW Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="FW L1" />
+        <Component Name="FW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="FW L2" />
+        <Component Name="FW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="FW L3" />
+        <Component Name="FW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="FW L1" />
+        <Component Name="FW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="FW L2" />
+        <Component Name="FW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="FW L3" />
+        <Component Name="FW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="FW G120C Stop" />
+        <Component Name="FW G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="45" />
@@ -3768,122 +3768,122 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="BW Stop All" />
+        <Component Name="BW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="BW Allowed" />
+        <Component Name="BW Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="BW Allowed" />
+        <Component Name="BW Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="BW L1" />
+        <Component Name="BW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="BW L2" />
+        <Component Name="BW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="BW L3" />
+        <Component Name="BW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="BW L1" />
+        <Component Name="BW L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="BW L2" />
+        <Component Name="BW L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="BW L3" />
+        <Component Name="BW L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="BW G120C Stop" />
+        <Component Name="BW G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="45" />
@@ -4135,122 +4135,122 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="LFT Stop All" />
+        <Component Name="LFT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="LFT Allowed" />
+        <Component Name="LFT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="LFT Allowed" />
+        <Component Name="LFT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="LFT L1" />
+        <Component Name="LFT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="LFT L2" />
+        <Component Name="LFT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="LFT L1" />
+        <Component Name="LFT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="LFT L2" />
+        <Component Name="LFT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="LFT L3" />
+        <Component Name="LFT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="LFT G120C Stop" />
+        <Component Name="LFT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="45" />
@@ -4502,122 +4502,122 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="RGHT Stop All" />
+        <Component Name="RGHT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="RGHT Allowed" />
+        <Component Name="RGHT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="RGHT Allowed" />
+        <Component Name="RGHT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="RGHT L1" />
+        <Component Name="RGHT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Speed L1" />
+        <Component Name="Speed L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="RGHT L2" />
+        <Component Name="RGHT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="Speed L3" />
+        <Component Name="Speed L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="RGHT L1" />
+        <Component Name="RGHT L1 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="RGHT L2" />
+        <Component Name="RGHT L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="RGHT L3" />
+        <Component Name="RGHT L3 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="Right G120C Stop" />
+        <Component Name="Right G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="45" />
@@ -4869,52 +4869,52 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="FW Stop All" />
+        <Component Name="FW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="LFT Stop All" />
+        <Component Name="LFT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="FW-LFT Allowed" />
+        <Component Name="FW-LFT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="FW-LFT Allowed" />
+        <Component Name="FW-LFT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="FW-LFT" />
+        <Component Name="FW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="31">
@@ -4925,17 +4925,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="FW-LFT" />
+        <Component Name="FW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="FW-LFT G120C Stop" />
+        <Component Name="FW-LFT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />
@@ -5108,52 +5108,52 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="FW Stop All" />
+        <Component Name="FW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="RGHT Stop All" />
+        <Component Name="RGHT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="FW-RGHT Allowed" />
+        <Component Name="FW-RGHT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="FW-RGHT Allowed" />
+        <Component Name="FW-RGHT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="FW-RGHT" />
+        <Component Name="FW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="31">
@@ -5164,17 +5164,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="FW-RGHT" />
+        <Component Name="FW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="FW-RGHT G120C Stop" />
+        <Component Name="FW-RGHT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />
@@ -5347,52 +5347,52 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="BW Stop All" />
+        <Component Name="BW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="RGHT Stop All" />
+        <Component Name="RGHT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="BW-LFT Allowed" />
+        <Component Name="BW-LFT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="BW-LFT Allowed" />
+        <Component Name="BW-LFT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="BW-LFT" />
+        <Component Name="BW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="31">
@@ -5403,17 +5403,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="BW-LFT" />
+        <Component Name="BW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="BW-LFT G120C Stop" />
+        <Component Name="BW-LFT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />
@@ -5586,52 +5586,52 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="OK" />
+        <Component Name="OK Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Cross M" />
+        <Component Name="Cross M Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="BW Stop All" />
+        <Component Name="BW Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="LFT Stop All" />
+        <Component Name="LFT Stop All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="BW-RGHT Allowed" />
+        <Component Name="BW-RGHT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="BW-RGHT Allowed" />
+        <Component Name="BW-RGHT Allowed Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="BW-RGHT" />
+        <Component Name="BW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Left Driver Analog" />
+        <Component Name="Left Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Speed L2" />
+        <Component Name="Speed L2 Memo" />
       </Symbol>
     </Access>
     <Access Scope="LiteralConstant" UId="31">
@@ -5642,17 +5642,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Right Driver Analog" />
+        <Component Name="Right Driver Analog input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="BW-RGHT" />
+        <Component Name="BW-RGHT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="BW-RGHT G120C Stop" />
+        <Component Name="BW-RGHT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />
@@ -5825,92 +5825,92 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="JoyStick X33 FW" />
+        <Component Name="JoyStick X33 FW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="JoyStick Y55 LFT" />
+        <Component Name="JoyStick Y55 LFT input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="BW-LFT" />
+        <Component Name="BW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Left Driver Reversing" />
+        <Component Name="Left Driver Reversing output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="JoyStick X55 BW" />
+        <Component Name="JoyStick X55 BW input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="JoyStick Y55 LFT" />
+        <Component Name="JoyStick Y55 LFT input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="FW-LFT" />
+        <Component Name="FW-LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="Right Driver Reversing" />
+        <Component Name="Right Driver Reversing output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="FW G120C Stop" />
+        <Component Name="FW G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="LFT G120C Stop" />
+        <Component Name="LFT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="BW G120C Stop" />
+        <Component Name="BW G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="Right G120C Stop" />
+        <Component Name="Right G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="FW-LFT G120C Stop" />
+        <Component Name="FW-LFT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="FW-RGHT G120C Stop" />
+        <Component Name="FW-RGHT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="BW-LFT G120C Stop" />
+        <Component Name="BW-LFT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="36">
       <Symbol>
-        <Component Name="BW-RGHT G120C Stop" />
+        <Component Name="BW-RGHT G120C Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Left Driver On/Off" />
+        <Component Name="Left Driver On/Off output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
       <Symbol>
-        <Component Name="Right Driver On/Off" />
+        <Component Name="Right Driver On/Off output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="39" />
@@ -6159,7 +6159,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Slow Activated" />
+        <Component Name="Slow Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -6170,12 +6170,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Brake Off Time" />
+        <Component Name="Brake Off Time Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Slow Activated" />
+        <Component Name="Slow Activated Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -6186,12 +6186,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="Brake Off Time" />
+        <Component Name="Brake Off Time Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Left Driver On/Off" />
+        <Component Name="Left Driver On/Off output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -6202,27 +6202,27 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Brake Off Time" />
+        <Component Name="Brake Off Time Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="Button ByPass" />
+        <Component Name="Button ByPass input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Drive Brake Off" />
+        <Component Name="Drive Brake Off Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="R7 - Motor Brake Left" />
+        <Component Name="R7 - Motor Brake Left output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="R8 - Motor Brake Right" />
+        <Component Name="R8 - Motor Brake Right output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="34">
@@ -6414,17 +6414,17 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="SafetyEdge" />
+        <Component Name="SafetyEdge input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="SE ByPass" />
+        <Component Name="SE ByPass Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="SafetyBarrier Activated" />
+        <Component Name="SafetyBarrier Activated Memo" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="24" />

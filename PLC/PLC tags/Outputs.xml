@@ -13,7 +13,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.0</LogicalAddress>
-          <Name>Left Driver On/Off</Name>
+          <Name>Left Driver On/Off output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2" CompositionName="Comment">
@@ -47,7 +47,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.1</LogicalAddress>
-          <Name>Left Driver Reversing</Name>
+          <Name>Left Driver Reversing output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7" CompositionName="Comment">
@@ -81,7 +81,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.2</LogicalAddress>
-          <Name>Left Driver Fault</Name>
+          <Name>Left Driver Fault output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C" CompositionName="Comment">
@@ -115,7 +115,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.3</LogicalAddress>
-          <Name>Left Driver DI4 STO</Name>
+          <Name>Left Driver DI4 STO output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11" CompositionName="Comment">
@@ -149,7 +149,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.4</LogicalAddress>
-          <Name>Left Driver DI5 STO</Name>
+          <Name>Left Driver DI5 STO output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16" CompositionName="Comment">
@@ -183,7 +183,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.5</LogicalAddress>
-          <Name>Right Driver On/Off</Name>
+          <Name>Right Driver On/Off output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="1B" CompositionName="Comment">
@@ -217,7 +217,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.6</LogicalAddress>
-          <Name>Right Driver Reversing</Name>
+          <Name>Right Driver Reversing output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="20" CompositionName="Comment">
@@ -251,7 +251,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q0.7</LogicalAddress>
-          <Name>Right Driver Fault</Name>
+          <Name>Right Driver Fault output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="25" CompositionName="Comment">
@@ -285,7 +285,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q1.0</LogicalAddress>
-          <Name>Right Driver DI4 STO</Name>
+          <Name>Right Driver DI4 STO output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2A" CompositionName="Comment">
@@ -319,7 +319,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q1.1</LogicalAddress>
-          <Name>Right Driver DI5 STO</Name>
+          <Name>Right Driver DI5 STO output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2F" CompositionName="Comment">
@@ -353,7 +353,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q2.0</LogicalAddress>
-          <Name>Cab Driver On/Off</Name>
+          <Name>Cab Driver On/Off output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="34" CompositionName="Comment">
@@ -387,7 +387,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q2.1</LogicalAddress>
-          <Name>Cab Driver Reversing</Name>
+          <Name>Cab Driver Reversing output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="39" CompositionName="Comment">
@@ -421,7 +421,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q2.2</LogicalAddress>
-          <Name>Cab Driver Fault Reset</Name>
+          <Name>Cab Driver Fault Reset output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="3E" CompositionName="Comment">
@@ -455,7 +455,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q2.3</LogicalAddress>
-          <Name>Cab Driver DI4 STO</Name>
+          <Name>Cab Driver DI4 STO output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="43" CompositionName="Comment">
@@ -489,7 +489,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q2.4</LogicalAddress>
-          <Name>Cab Driver DI5 STO</Name>
+          <Name>Cab Driver DI5 STO output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="48" CompositionName="Comment">
@@ -523,7 +523,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.0</LogicalAddress>
-          <Name>MC - Main Contactor</Name>
+          <Name>MC - Main Contactor output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="4D" CompositionName="Comment">
@@ -557,7 +557,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.1</LogicalAddress>
-          <Name>C1 - Hydraulic</Name>
+          <Name>C1 - Hydraulic output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="52" CompositionName="Comment">
@@ -591,7 +591,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.2</LogicalAddress>
-          <Name>C2 - Hose power</Name>
+          <Name>C2 - Hose power output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="57" CompositionName="Comment">
@@ -625,7 +625,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.3</LogicalAddress>
-          <Name>C3 - Tunnel Lights</Name>
+          <Name>C3 - Tunnel Lights output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="5C" CompositionName="Comment">
@@ -659,7 +659,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.4</LogicalAddress>
-          <Name>C4 - Tunnel Lights UPS</Name>
+          <Name>C4 - Tunnel Lights UPS output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="61" CompositionName="Comment">
@@ -693,7 +693,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.5</LogicalAddress>
-          <Name>C5 - Ext Lighting</Name>
+          <Name>C5 - Ext Lighting output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="66" CompositionName="Comment">
@@ -727,7 +727,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.7</LogicalAddress>
-          <Name>R2 - Bumper Red Light iptal</Name>
+          <Name>R2 - Bumper Red Light iptal output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="6B" CompositionName="Comment">
@@ -761,7 +761,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.6</LogicalAddress>
-          <Name>R1 - SafetyEdge Red Light</Name>
+          <Name>R1 - SafetyEdge Red Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="70" CompositionName="Comment">
@@ -795,7 +795,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.1</LogicalAddress>
-          <Name>R4 - Mania Lights</Name>
+          <Name>R4 - Mania Lights output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="75" CompositionName="Comment">
@@ -829,7 +829,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.3</LogicalAddress>
-          <Name>R6 - Cab Warning Light &amp; Buzzer</Name>
+          <Name>R6 - Cab Warning Light &amp; Buzzer output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7A" CompositionName="Comment">
@@ -863,7 +863,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.4</LogicalAddress>
-          <Name>R7 - Motor Brake Left</Name>
+          <Name>R7 - Motor Brake Left output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7F" CompositionName="Comment">
@@ -897,7 +897,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.5</LogicalAddress>
-          <Name>R8 - Motor Brake Right</Name>
+          <Name>R8 - Motor Brake Right output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="84" CompositionName="Comment">
@@ -931,7 +931,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.1</LogicalAddress>
-          <Name>R12 - Valve Up</Name>
+          <Name>R12 - Valve Up output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="89" CompositionName="Comment">
@@ -965,7 +965,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.2</LogicalAddress>
-          <Name>R13 - Valve Down</Name>
+          <Name>R13 - Valve Down output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="8E" CompositionName="Comment">
@@ -999,7 +999,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.3</LogicalAddress>
-          <Name>R14 - Valve Em Down</Name>
+          <Name>R14 - Valve Em Down output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="93" CompositionName="Comment">
@@ -1033,7 +1033,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.4</LogicalAddress>
-          <Name>R15 - Valve V4 &amp; V5 Columns Down</Name>
+          <Name>R15 - Valve V4 &amp; V5 Columns Down output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="98" CompositionName="Comment">
@@ -1067,7 +1067,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.0</LogicalAddress>
-          <Name>R3 - Left &amp; Right Warning Lights</Name>
+          <Name>R3 - Left &amp; Right Warning Lights output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="9D" CompositionName="Comment">
@@ -1101,7 +1101,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.6</LogicalAddress>
-          <Name>R9 - Cabin Motor Brake</Name>
+          <Name>R9 - Cabin Motor Brake output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="A2" CompositionName="Comment">
@@ -1135,7 +1135,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.5</LogicalAddress>
-          <Name>R20 - PBB On</Name>
+          <Name>R20 - PBB On output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="A7" CompositionName="Comment">
@@ -1169,7 +1169,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.6</LogicalAddress>
-          <Name>R21 - PBB Error/Fault/Alarm</Name>
+          <Name>R21 - PBB Error/Fault/Alarm output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="AC" CompositionName="Comment">
@@ -1203,7 +1203,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.7</LogicalAddress>
-          <Name>R22 - Autoleveller On</Name>
+          <Name>R22 - Autoleveller On output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B1" CompositionName="Comment">
@@ -1237,7 +1237,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q6.0</LogicalAddress>
-          <Name>R23 - AutoLeveller Fault</Name>
+          <Name>R23 - AutoLeveller Fault output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B6" CompositionName="Comment">
@@ -1271,7 +1271,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q6.1</LogicalAddress>
-          <Name>R24 - SafetyShoe Activated</Name>
+          <Name>R24 - SafetyShoe Activated output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="BB" CompositionName="Comment">
@@ -1305,7 +1305,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q6.2</LogicalAddress>
-          <Name>R25 - Fire Detector</Name>
+          <Name>R25 - Fire Detector output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C0" CompositionName="Comment">
@@ -1339,7 +1339,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.0</LogicalAddress>
-          <Name>R50 - HMI Power</Name>
+          <Name>R50 - HMI Power output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C5" CompositionName="Comment">
@@ -1373,7 +1373,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.1</LogicalAddress>
-          <Name>R51 - SafetyShoe Power</Name>
+          <Name>R51 - SafetyShoe Power output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="CA" CompositionName="Comment">
@@ -1407,7 +1407,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.6</LogicalAddress>
-          <Name>C52 - Left Canopy FW</Name>
+          <Name>C52 - Left Canopy FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="CF" CompositionName="Comment">
@@ -1441,7 +1441,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.7</LogicalAddress>
-          <Name>C53 - Left Canopy BW</Name>
+          <Name>C53 - Left Canopy BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="D4" CompositionName="Comment">
@@ -1475,7 +1475,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.0</LogicalAddress>
-          <Name>C54 - Right Canopy FW</Name>
+          <Name>C54 - Right Canopy FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="D9" CompositionName="Comment">
@@ -1509,7 +1509,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.1</LogicalAddress>
-          <Name>C55 - Right Canopy BW</Name>
+          <Name>C55 - Right Canopy BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="DE" CompositionName="Comment">
@@ -1543,7 +1543,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.4</LogicalAddress>
-          <Name>C50 - Cab Floor FW</Name>
+          <Name>C50 - Cab Floor FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="E3" CompositionName="Comment">
@@ -1577,7 +1577,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.5</LogicalAddress>
-          <Name>C51 - Cab Floor BW</Name>
+          <Name>C51 - Cab Floor BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="E8" CompositionName="Comment">
@@ -1611,7 +1611,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.2</LogicalAddress>
-          <Name>C56 - AutoLeveller FW</Name>
+          <Name>C56 - AutoLeveller FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="ED" CompositionName="Comment">
@@ -1645,7 +1645,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.3</LogicalAddress>
-          <Name>C57 - AutoLeveller BW</Name>
+          <Name>C57 - AutoLeveller BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="F2" CompositionName="Comment">
@@ -1679,7 +1679,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q12.0</LogicalAddress>
-          <Name>CP - Buzzer</Name>
+          <Name>CP - Buzzer output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="F7" CompositionName="Comment">
@@ -1713,7 +1713,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q12.1</LogicalAddress>
-          <Name>CP - Alarm Red Light</Name>
+          <Name>CP - Alarm Red Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="FC" CompositionName="Comment">
@@ -1747,7 +1747,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q12.2</LogicalAddress>
-          <Name>CP - PBB Start Green Light</Name>
+          <Name>CP - PBB Start Green Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="101" CompositionName="Comment">
@@ -1781,7 +1781,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q12.3</LogicalAddress>
-          <Name>CP - Reset Red Light</Name>
+          <Name>CP - Reset Red Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="106" CompositionName="Comment">
@@ -1815,7 +1815,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q12.4</LogicalAddress>
-          <Name>CP - Button Int Lighting Light</Name>
+          <Name>CP - Button Int Lighting Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="10B" CompositionName="Comment">
@@ -1849,7 +1849,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q12.5</LogicalAddress>
-          <Name>CP - Button Ext Lighting Light</Name>
+          <Name>CP - Button Ext Lighting Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="110" CompositionName="Comment">
@@ -1883,7 +1883,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q12.7</LogicalAddress>
-          <Name>CP - Button Em Stop Light</Name>
+          <Name>CP - Button Em Stop Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="115" CompositionName="Comment">
@@ -1917,7 +1917,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q13.2</LogicalAddress>
-          <Name>PCA Active OUT</Name>
+          <Name>PCA Active OUT output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11A" CompositionName="Comment">
@@ -1951,7 +1951,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q13.3</LogicalAddress>
-          <Name>GPU1 Active OUT</Name>
+          <Name>GPU1 Active OUT output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11F" CompositionName="Comment">
@@ -1985,7 +1985,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q13.4</LogicalAddress>
-          <Name>GPU2 Active OUT</Name>
+          <Name>GPU2 Active OUT output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="124" CompositionName="Comment">
@@ -2019,7 +2019,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q13.0</LogicalAddress>
-          <Name>PBB HOME</Name>
+          <Name>PBB HOME output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="129" CompositionName="Comment">
@@ -2053,7 +2053,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q13.1</LogicalAddress>
-          <Name>PBB Autoleveler ON</Name>
+          <Name>PBB Autoleveler ON output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="12E" CompositionName="Comment">

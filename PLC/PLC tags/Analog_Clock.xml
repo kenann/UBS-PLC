@@ -13,7 +13,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%IW160</LogicalAddress>
-          <Name>Rotunda Angle</Name>
+          <Name>Rotunda Angle input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2" CompositionName="Comment">
@@ -47,7 +47,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%IW164</LogicalAddress>
-          <Name>Drive Angle</Name>
+          <Name>Drive Angle input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7" CompositionName="Comment">
@@ -81,7 +81,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%IW166</LogicalAddress>
-          <Name>Cabin Angle</Name>
+          <Name>Cabin Angle input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C" CompositionName="Comment">
@@ -115,7 +115,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%IW176</LogicalAddress>
-          <Name>WireDraw Encoder</Name>
+          <Name>WireDraw Encoder input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="11" CompositionName="Comment">
@@ -149,7 +149,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%IW162</LogicalAddress>
-          <Name>Laser</Name>
+          <Name>Laser input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16" CompositionName="Comment">
@@ -183,7 +183,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%QW160</LogicalAddress>
-          <Name>Left Driver Analog</Name>
+          <Name>Left Driver Analog input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="1B" CompositionName="Comment">
@@ -217,7 +217,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%QW162</LogicalAddress>
-          <Name>Right Driver Analog</Name>
+          <Name>Right Driver Analog input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="20" CompositionName="Comment">
@@ -251,7 +251,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%QW176</LogicalAddress>
-          <Name>Cab Driver Analog</Name>
+          <Name>Cab Driver Analog input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="25" CompositionName="Comment">
@@ -285,7 +285,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M226.1</LogicalAddress>
-          <Name>Slow Mode</Name>
+          <Name>Slow Mode input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2A" CompositionName="Comment">
