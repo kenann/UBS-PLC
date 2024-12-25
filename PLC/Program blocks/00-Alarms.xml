@@ -1915,7 +1915,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="Rotunda Stop LS LFT Memo" />
+        <Component Name="Rotunda LSW LFT Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -1955,7 +1955,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="Rotunda Stop LS Rght Memo" />
+        <Component Name="Rotunda LSW Rght Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">

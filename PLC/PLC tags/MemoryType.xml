@@ -4603,7 +4603,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M216.6</LogicalAddress>
-          <Name>Rotunda Stop LS LFT Memo</Name>
+          <Name>Rotunda LSW LFT Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2A5" CompositionName="Comment">
@@ -4637,7 +4637,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M225.5</LogicalAddress>
-          <Name>Rotunda Stop LS Rght Memo</Name>
+          <Name>Rotunda LSW Rght Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="2AA" CompositionName="Comment">
@@ -5471,6 +5471,74 @@
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="325" CompositionName="Items">
+                <AttributeList>
+                  <Culture>tr-TR</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+            </ObjectList>
+          </MultilingualText>
+        </ObjectList>
+      </SW.Tags.PlcTag>
+      <SW.Tags.PlcTag ID="326" CompositionName="Tags">
+        <AttributeList>
+          <DataTypeName>Bool</DataTypeName>
+          <ExternalAccessible>true</ExternalAccessible>
+          <ExternalVisible>true</ExternalVisible>
+          <ExternalWritable>true</ExternalWritable>
+          <LogicalAddress>%M226.5</LogicalAddress>
+          <Name>Button ByPass Memo</Name>
+        </AttributeList>
+        <ObjectList>
+          <MultilingualText ID="327" CompositionName="Comment">
+            <ObjectList>
+              <MultilingualTextItem ID="328" CompositionName="Items">
+                <AttributeList>
+                  <Culture>en-US</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="329" CompositionName="Items">
+                <AttributeList>
+                  <Culture>ru-RU</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="32A" CompositionName="Items">
+                <AttributeList>
+                  <Culture>tr-TR</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+            </ObjectList>
+          </MultilingualText>
+        </ObjectList>
+      </SW.Tags.PlcTag>
+      <SW.Tags.PlcTag ID="32B" CompositionName="Tags">
+        <AttributeList>
+          <DataTypeName>Bool</DataTypeName>
+          <ExternalAccessible>true</ExternalAccessible>
+          <ExternalVisible>true</ExternalVisible>
+          <ExternalWritable>true</ExternalWritable>
+          <LogicalAddress>%M226.6</LogicalAddress>
+          <Name>Button Reset Memo</Name>
+        </AttributeList>
+        <ObjectList>
+          <MultilingualText ID="32C" CompositionName="Comment">
+            <ObjectList>
+              <MultilingualTextItem ID="32D" CompositionName="Items">
+                <AttributeList>
+                  <Culture>en-US</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="32E" CompositionName="Items">
+                <AttributeList>
+                  <Culture>ru-RU</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="32F" CompositionName="Items">
                 <AttributeList>
                   <Culture>tr-TR</Culture>
                   <Text />
