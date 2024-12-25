@@ -162,7 +162,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="Touch LFT Stop Limit Memo" />
+        <Component Name="Bumper Touch LFT Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
@@ -172,7 +172,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="Touch Mid Stop Limit Memo" />
+        <Component Name="Bumper Touch Mid Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
@@ -182,7 +182,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="Touch RGTH Stop Limit Memo" />
+        <Component Name="Bumper Touch RGTH Stop Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
@@ -2426,7 +2426,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Cab LS Left Stop Memo" />
+        <Component Name="Cabin LS Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -2446,7 +2446,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="Cab Stop Left All Memo" />
+        <Component Name="Cabin Left All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -2456,7 +2456,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Cab LS Right Stop Memo" />
+        <Component Name="Cabin LS Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -2476,7 +2476,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="Cab Stop Right All Memo" />
+        <Component Name="Cabin Right All Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
