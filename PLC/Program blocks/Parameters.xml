@@ -83,7 +83,7 @@
       <Comment>
         <MultiLanguageText Lang="en-US">PBB1: -770, 19518, 0, 90, 0, 120 en sol</MultiLanguageText>
       </Comment>
-      <StartValue>7400</StartValue>
+      <StartValue>5824</StartValue>
     </Member>
     <Member Name="Cab Angle Max" Datatype="Int" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -92,7 +92,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>16500</StartValue>
+      <StartValue>15512</StartValue>
     </Member>
     <Member Name="Cab Angle Min deg" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -110,7 +110,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>135.0</StartValue>
+      <StartValue>130.0</StartValue>
     </Member>
     <Member Name="Cabin Stop Point Left" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -119,7 +119,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>0.1</StartValue>
+      <StartValue>10.0</StartValue>
     </Member>
     <Member Name="Cabin Stop Point Right" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -128,7 +128,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>135.0</StartValue>
+      <StartValue>130.0</StartValue>
     </Member>
     <Member Name="Drive Angle NomScale_test" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -149,7 +149,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>11750</StartValue>
+      <StartValue>6804</StartValue>
     </Member>
     <Member Name="Drive Angle Max" Datatype="Int" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -158,7 +158,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>24000</StartValue>
+      <StartValue>19680</StartValue>
     </Member>
     <Member Name="Drive Angle Min deg" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -203,7 +203,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>4.5</StartValue>
+      <StartValue>10.0</StartValue>
     </Member>
     <Member Name="Inclanation Desire Floor Point" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -230,7 +230,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>1000</StartValue>
+      <StartValue>700</StartValue>
     </Member>
     <Member Name="Laser Scale Max" Datatype="Int" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -239,7 +239,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>18000</StartValue>
+      <StartValue>9846</StartValue>
     </Member>
     <Member Name="Laser Scale Min m" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -248,7 +248,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>23.5</StartValue>
+      <StartValue>20.0</StartValue>
     </Member>
     <Member Name="Laser Scale Max m" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -257,7 +257,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>36.2</StartValue>
+      <StartValue>42.0</StartValue>
     </Member>
     <Member Name="Laser FW Slow Point" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -266,7 +266,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>34.0</StartValue>
+      <StartValue>39.0</StartValue>
     </Member>
     <Member Name="Laser BW Slow Point" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -275,7 +275,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>25.0</StartValue>
+      <StartValue>22.0</StartValue>
     </Member>
     <Member Name="Laser FW Stop Point" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -284,7 +284,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>36.0</StartValue>
+      <StartValue>42.0</StartValue>
     </Member>
     <Member Name="Laser BW Stop Point" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -293,7 +293,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>23.5</StartValue>
+      <StartValue>20.0</StartValue>
     </Member>
     <Member Name="Laser FW Em Stop Point" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -305,7 +305,7 @@
       <Comment>
         <MultiLanguageText Lang="en-US">IPTAL</MultiLanguageText>
       </Comment>
-      <StartValue>36.5</StartValue>
+      <StartValue>60.0</StartValue>
     </Member>
     <Member Name="Laser BW Em Stop Point" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -317,7 +317,7 @@
       <Comment>
         <MultiLanguageText Lang="en-US">IPTAL</MultiLanguageText>
       </Comment>
-      <StartValue>23.0</StartValue>
+      <StartValue>1.0</StartValue>
     </Member>
     <Member Name="AutoLeveler Over Up Time" Datatype="Time" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -362,7 +362,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>1.8</StartValue>
+      <StartValue>2.0</StartValue>
     </Member>
     <Member Name="Rot Angle Min" Datatype="Int" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -371,7 +371,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>19850</StartValue>
+      <StartValue>2500</StartValue>
     </Member>
     <Member Name="Rot Angle Max" Datatype="Int" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -380,7 +380,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>25850</StartValue>
+      <StartValue>13000</StartValue>
     </Member>
     <Member Name="Rot Angle Min deg" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -398,7 +398,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>180.0</StartValue>
+      <StartValue>175.0</StartValue>
     </Member>
     <Member Name="Rotunda Slow Point Right" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -407,7 +407,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>130.0</StartValue>
+      <StartValue>150.0</StartValue>
     </Member>
     <Member Name="Rotunda Slow Point LFT" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -416,7 +416,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>2.0</StartValue>
+      <StartValue>50.0</StartValue>
     </Member>
     <Member Name="Rotunda Stop Point Right" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -425,7 +425,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>135.0</StartValue>
+      <StartValue>170.0</StartValue>
     </Member>
     <Member Name="Rotunda Stop Point Left" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -434,7 +434,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>1.0</StartValue>
+      <StartValue>10.0</StartValue>
     </Member>
     <Member Name="Static_1 Time" Datatype="Time" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -527,7 +527,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>6.45</StartValue>
+      <StartValue>7.0</StartValue>
     </Member>
     <Member Name="Slope Stop Point Min" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -599,7 +599,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>605</StartValue>
+      <StartValue>1290</StartValue>
     </Member>
     <Member Name="Wire Draw Max" Datatype="Int" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -608,7 +608,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>15500</StartValue>
+      <StartValue>11980</StartValue>
     </Member>
     <Member Name="Wire Draw Min M" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
@@ -617,7 +617,7 @@
         <BooleanAttribute Name="ExternalWritable" SystemDefined="true">true</BooleanAttribute>
         <BooleanAttribute Name="SetPoint" SystemDefined="true">false</BooleanAttribute>
       </AttributeList>
-      <StartValue>1.8</StartValue>
+      <StartValue>2.0</StartValue>
     </Member>
     <Member Name="Wire Draw Max M" Datatype="Real" Remanence="Retain" Accessibility="Public">
       <AttributeList>
