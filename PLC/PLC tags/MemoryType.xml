@@ -3413,7 +3413,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M213.0</LogicalAddress>
-          <Name>Touch LFT Stop Limit Memo</Name>
+          <Name>Bumper Touch LFT Stop Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="1F6" CompositionName="Comment">
@@ -3447,7 +3447,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M213.1</LogicalAddress>
-          <Name>Touch Mid Stop Limit Memo</Name>
+          <Name>Bumper Touch Mid Stop Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="1FB" CompositionName="Comment">
@@ -3481,7 +3481,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M213.2</LogicalAddress>
-          <Name>Touch RGTH Stop Limit Memo</Name>
+          <Name>Bumper Touch RGTH Stop Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="200" CompositionName="Comment">
@@ -3923,7 +3923,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M215.0</LogicalAddress>
-          <Name>Cab LS Left Stop Memo</Name>
+          <Name>Cabin LS Left Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="241" CompositionName="Comment">
@@ -3957,7 +3957,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M215.1</LogicalAddress>
-          <Name>Cab Stop Left All Memo</Name>
+          <Name>Cabin Left All Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="246" CompositionName="Comment">
@@ -4025,7 +4025,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M215.3</LogicalAddress>
-          <Name>Cab LS Right Stop Memo</Name>
+          <Name>Cabin LS Right Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="250" CompositionName="Comment">
@@ -4059,7 +4059,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%M215.4</LogicalAddress>
-          <Name>Cab Stop Right All Memo</Name>
+          <Name>Cabin Right All Memo</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="255" CompositionName="Comment">
@@ -5369,6 +5369,108 @@
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="316" CompositionName="Items">
+                <AttributeList>
+                  <Culture>tr-TR</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+            </ObjectList>
+          </MultilingualText>
+        </ObjectList>
+      </SW.Tags.PlcTag>
+      <SW.Tags.PlcTag ID="317" CompositionName="Tags">
+        <AttributeList>
+          <DataTypeName>Bool</DataTypeName>
+          <ExternalAccessible>true</ExternalAccessible>
+          <ExternalVisible>true</ExternalVisible>
+          <ExternalWritable>true</ExternalWritable>
+          <LogicalAddress>%M217.1</LogicalAddress>
+          <Name>Bumper Touch Memo</Name>
+        </AttributeList>
+        <ObjectList>
+          <MultilingualText ID="318" CompositionName="Comment">
+            <ObjectList>
+              <MultilingualTextItem ID="319" CompositionName="Items">
+                <AttributeList>
+                  <Culture>en-US</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="31A" CompositionName="Items">
+                <AttributeList>
+                  <Culture>ru-RU</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="31B" CompositionName="Items">
+                <AttributeList>
+                  <Culture>tr-TR</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+            </ObjectList>
+          </MultilingualText>
+        </ObjectList>
+      </SW.Tags.PlcTag>
+      <SW.Tags.PlcTag ID="31C" CompositionName="Tags">
+        <AttributeList>
+          <DataTypeName>Bool</DataTypeName>
+          <ExternalAccessible>true</ExternalAccessible>
+          <ExternalVisible>true</ExternalVisible>
+          <ExternalWritable>true</ExternalWritable>
+          <LogicalAddress>%M217.2</LogicalAddress>
+          <Name>Canopy Touch Left Memo</Name>
+        </AttributeList>
+        <ObjectList>
+          <MultilingualText ID="31D" CompositionName="Comment">
+            <ObjectList>
+              <MultilingualTextItem ID="31E" CompositionName="Items">
+                <AttributeList>
+                  <Culture>en-US</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="31F" CompositionName="Items">
+                <AttributeList>
+                  <Culture>ru-RU</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="320" CompositionName="Items">
+                <AttributeList>
+                  <Culture>tr-TR</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+            </ObjectList>
+          </MultilingualText>
+        </ObjectList>
+      </SW.Tags.PlcTag>
+      <SW.Tags.PlcTag ID="321" CompositionName="Tags">
+        <AttributeList>
+          <DataTypeName>Bool</DataTypeName>
+          <ExternalAccessible>true</ExternalAccessible>
+          <ExternalVisible>true</ExternalVisible>
+          <ExternalWritable>true</ExternalWritable>
+          <LogicalAddress>%M217.3</LogicalAddress>
+          <Name>Canopy Touch Right Memo</Name>
+        </AttributeList>
+        <ObjectList>
+          <MultilingualText ID="322" CompositionName="Comment">
+            <ObjectList>
+              <MultilingualTextItem ID="323" CompositionName="Items">
+                <AttributeList>
+                  <Culture>en-US</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="324" CompositionName="Items">
+                <AttributeList>
+                  <Culture>ru-RU</Culture>
+                  <Text />
+                </AttributeList>
+              </MultilingualTextItem>
+              <MultilingualTextItem ID="325" CompositionName="Items">
                 <AttributeList>
                   <Culture>tr-TR</Culture>
                   <Text />
