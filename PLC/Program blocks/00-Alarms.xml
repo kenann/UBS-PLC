@@ -152,7 +152,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="LS FW Stop Limit Memo" />
+        <Component Name="Tunnel LSW FW Stop İnput" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
@@ -202,7 +202,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="Tunnel FW Em Stop LS M Memo" />
+        <Component Name="Tunnel LSW FW Em Stop İnput" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="50">
@@ -222,7 +222,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="53">
       <Symbol>
-        <Component Name="LS BW Stop Limit Memo" />
+        <Component Name="Tunnel LSW BW Stop İnput" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="54">
@@ -242,7 +242,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="57">
       <Symbol>
-        <Component Name="Tunnel BW Em Stop LS M Memo" />
+        <Component Name="Tunnel LSW BW Em Stop İnput" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="58">
@@ -422,7 +422,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="93">
       <Symbol>
-        <Component Name="AutoLeveller Down Sensor input" />
+        <Component Name="AutoLeveller Touch input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="94">
@@ -568,7 +568,9 @@
     <Part Name="Coil" UId="134" />
     <Part Name="Contact" UId="135" />
     <Part Name="Coil" UId="136" />
-    <Part Name="Contact" UId="137" />
+    <Part Name="Contact" UId="137">
+      <Negated Name="operand" />
+    </Part>
     <Part Name="Coil" UId="138" />
     <Part Name="Contact" UId="139" />
     <Part Name="Coil" UId="140" />
@@ -578,15 +580,21 @@
     <Part Name="Coil" UId="144" />
     <Part Name="Contact" UId="145" />
     <Part Name="Coil" UId="146" />
-    <Part Name="Contact" UId="147" />
+    <Part Name="Contact" UId="147">
+      <Negated Name="operand" />
+    </Part>
     <Part Name="Coil" UId="148" />
     <Part Name="Contact" UId="149" />
     <Part Name="Coil" UId="150" />
-    <Part Name="Contact" UId="151" />
+    <Part Name="Contact" UId="151">
+      <Negated Name="operand" />
+    </Part>
     <Part Name="Coil" UId="152" />
     <Part Name="Contact" UId="153" />
     <Part Name="Coil" UId="154" />
-    <Part Name="Contact" UId="155" />
+    <Part Name="Contact" UId="155">
+      <Negated Name="operand" />
+    </Part>
     <Part Name="Coil" UId="156" />
     <Part Name="Contact" UId="157" />
     <Part Name="Coil" UId="158" />
