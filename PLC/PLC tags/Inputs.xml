@@ -1203,7 +1203,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I6.2</LogicalAddress>
-          <Name>Fuse Cab input</Name>
+          <Name>Cab Fuse input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B1" CompositionName="Comment">
@@ -2392,8 +2392,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I6.5</LogicalAddress>
-          <Name>Fuse Phase Control Relay input</Name>
+          <LogicalAddress>%I15.3</LogicalAddress>
+          <Name>GPU2 Active input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="160" CompositionName="Comment">
@@ -2426,8 +2426,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I15.3</LogicalAddress>
-          <Name>GPU2 Active input</Name>
+          <LogicalAddress>%I4.3</LogicalAddress>
+          <Name>Fire Detector Cabin input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="165" CompositionName="Comment">
@@ -2460,8 +2460,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I4.3</LogicalAddress>
-          <Name>Fire Detector Cabin input</Name>
+          <LogicalAddress>%I6.6</LogicalAddress>
+          <Name>Fuse Hose Ritriver input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16A" CompositionName="Comment">
@@ -2494,8 +2494,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I6.6</LogicalAddress>
-          <Name>Fuse Hose Ritriver input</Name>
+          <LogicalAddress>%I7.5</LogicalAddress>
+          <Name>Fuse input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16F" CompositionName="Comment">
@@ -2528,8 +2528,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I7.5</LogicalAddress>
-          <Name>Fuse input</Name>
+          <LogicalAddress>%I15.6</LogicalAddress>
+          <Name>PCA Error input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="174" CompositionName="Comment">
@@ -2562,8 +2562,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I15.6</LogicalAddress>
-          <Name>PCA Error input</Name>
+          <LogicalAddress>%I15.4</LogicalAddress>
+          <Name>GPU2 Error input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="179" CompositionName="Comment">
@@ -2596,8 +2596,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I15.4</LogicalAddress>
-          <Name>GPU2 Error input</Name>
+          <LogicalAddress>%I15.1</LogicalAddress>
+          <Name>GPU1 Active input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="17E" CompositionName="Comment">
@@ -2630,8 +2630,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I15.1</LogicalAddress>
-          <Name>GPU1 Active input</Name>
+          <LogicalAddress>%I15.2</LogicalAddress>
+          <Name>GPU1 Error input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="183" CompositionName="Comment">
@@ -2664,8 +2664,8 @@
           <ExternalAccessible>true</ExternalAccessible>
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I15.2</LogicalAddress>
-          <Name>GPU1 Error input</Name>
+          <LogicalAddress>%I15.7</LogicalAddress>
+          <Name>Hose Active input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="188" CompositionName="Comment">
@@ -2683,40 +2683,6 @@
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="18B" CompositionName="Items">
-                <AttributeList>
-                  <Culture>tr-TR</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-            </ObjectList>
-          </MultilingualText>
-        </ObjectList>
-      </SW.Tags.PlcTag>
-      <SW.Tags.PlcTag ID="18C" CompositionName="Tags">
-        <AttributeList>
-          <DataTypeName>Bool</DataTypeName>
-          <ExternalAccessible>true</ExternalAccessible>
-          <ExternalVisible>true</ExternalVisible>
-          <ExternalWritable>true</ExternalWritable>
-          <LogicalAddress>%I15.7</LogicalAddress>
-          <Name>Hose Active input</Name>
-        </AttributeList>
-        <ObjectList>
-          <MultilingualText ID="18D" CompositionName="Comment">
-            <ObjectList>
-              <MultilingualTextItem ID="18E" CompositionName="Items">
-                <AttributeList>
-                  <Culture>en-US</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-              <MultilingualTextItem ID="18F" CompositionName="Items">
-                <AttributeList>
-                  <Culture>ru-RU</Culture>
-                  <Text />
-                </AttributeList>
-              </MultilingualTextItem>
-              <MultilingualTextItem ID="190" CompositionName="Items">
                 <AttributeList>
                   <Culture>tr-TR</Culture>
                   <Text />
