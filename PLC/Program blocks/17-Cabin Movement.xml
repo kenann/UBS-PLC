@@ -69,7 +69,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Fuse Cab input" />
+        <Component Name="Cab Fuse input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
