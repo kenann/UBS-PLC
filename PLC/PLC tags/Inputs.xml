@@ -2495,7 +2495,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I7.5</LogicalAddress>
-          <Name>Fuse input</Name>
+          <Name>Fuse MC input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="16F" CompositionName="Comment">
