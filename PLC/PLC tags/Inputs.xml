@@ -1237,7 +1237,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%I7.0</LogicalAddress>
-          <Name>Phase Relay - PCR input</Name>
+          <Name>Phase Relay input</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B6" CompositionName="Comment">
