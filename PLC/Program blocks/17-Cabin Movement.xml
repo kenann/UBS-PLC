@@ -74,7 +74,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Phase Relay - PCR input" />
+        <Component Name="Phase Relay input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">

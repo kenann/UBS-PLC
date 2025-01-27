@@ -542,7 +542,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="117">
       <Symbol>
-        <Component Name="Phase Relay - PCR input" />
+        <Component Name="Phase Relay input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="118">

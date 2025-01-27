@@ -980,7 +980,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Phase Relay - PCR input" />
+        <Component Name="Phase Relay input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -1743,7 +1743,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Fuse Cab input" />
+        <Component Name="Cab Fuse input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -3180,7 +3180,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="Phase Relay - PCR input" />
+        <Component Name="Phase Relay input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -3195,7 +3195,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="Phase Relay - PCR input" />
+        <Component Name="Phase Relay input" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
