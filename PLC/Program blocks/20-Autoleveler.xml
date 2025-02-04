@@ -527,7 +527,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW output" />
+        <Component Name="AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
@@ -537,12 +537,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW output" />
+        <Component Name="AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW output" />
+        <Component Name="AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">
@@ -552,17 +552,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="44">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW output" />
+        <Component Name="AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="45">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW output" />
+        <Component Name="AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="46">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW output" />
+        <Component Name="AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="47">
@@ -572,12 +572,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="C56 - AutoLeveller FW output" />
+        <Component Name="AutoLeveller FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW output" />
+        <Component Name="AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="50">
@@ -587,7 +587,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="C57 - AutoLeveller BW output" />
+        <Component Name="AutoLeveller BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="52">

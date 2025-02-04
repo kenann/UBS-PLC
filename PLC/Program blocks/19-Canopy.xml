@@ -94,7 +94,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="C52 - Left Canopy FW output" />
+        <Component Name="Left Canopy FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
@@ -104,7 +104,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="C54 - Right Canopy FW output" />
+        <Component Name="Right Canopy FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
@@ -169,12 +169,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="C53 - Left Canopy BW output" />
+        <Component Name="Left Canopy BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
       <Symbol>
-        <Component Name="C55 - Right Canopy BW output" />
+        <Component Name="Right Canopy BW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="43">

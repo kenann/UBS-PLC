@@ -87,7 +87,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="C50 - Cab Floor FW output" />
+        <Component Name="Cab Floor FW output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
@@ -102,7 +102,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="C51 - Cab Floor BW output" />
+        <Component Name="Cab Floor BW output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="30">

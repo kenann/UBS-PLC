@@ -6279,12 +6279,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="R7 - Motor Brake Left output" />
+        <Component Name="Motor Brake Left output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="R8 - Motor Brake Right output" />
+        <Component Name="Motor Brake Right output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="34">

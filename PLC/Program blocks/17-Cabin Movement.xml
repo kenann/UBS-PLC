@@ -131,7 +131,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="R9 - Cabin Motor Brake output" />
+        <Component Name="Cabin Motor Brake output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
