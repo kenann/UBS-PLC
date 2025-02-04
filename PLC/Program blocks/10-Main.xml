@@ -318,7 +318,7 @@
     </Access>
     <Access Scope="TypedConstant" UId="34">
       <Constant>
-        <ConstantValue>T#100MS</ConstantValue>
+        <ConstantValue>T#120MS</ConstantValue>
       </Constant>
     </Access>
     <Access Scope="GlobalVariable" UId="35">
@@ -328,7 +328,7 @@
     </Access>
     <Access Scope="TypedConstant" UId="36">
       <Constant>
-        <ConstantValue>T#100MS</ConstantValue>
+        <ConstantValue>T#120MS</ConstantValue>
       </Constant>
     </Access>
     <Part Name="Contact" UId="37">
