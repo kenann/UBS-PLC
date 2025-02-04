@@ -548,7 +548,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="24">
       <Symbol>
-        <Component Name="R1 - SafetyEdge Red Light output" />
+        <Component Name="SafetyEdge Red Light output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="25">
@@ -590,17 +590,17 @@
     </Access>
     <Access Scope="GlobalVariable" UId="32">
       <Symbol>
-        <Component Name="R50 - HMI Power output" />
+        <Component Name="HMI Power output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="R51 - SafetyShoe Power output" />
+        <Component Name="SafetyShoe Power output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="R4 - Mania Lights output" />
+        <Component Name="Mania Lights output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />
@@ -1424,12 +1424,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="C1 - Hydraulic output" />
+        <Component Name="Hydraulic output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="R12 - Valve Up output" />
+        <Component Name="Valve Up output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="29">
@@ -1602,12 +1602,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="R13 - Valve Down output" />
+        <Component Name="Valve Down output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="R15 - Valve V4 &amp; V5 Columns Down output" />
+        <Component Name="Valve V4 &amp; V5 Columns Down output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
@@ -1617,7 +1617,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="30">
       <Symbol>
-        <Component Name="R14 - Valve Em Down output" />
+        <Component Name="Valve Em Down output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="31">
@@ -2808,7 +2808,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="37">
       <Symbol>
-        <Component Name="R7 - Motor Brake Left output" />
+        <Component Name="Motor Brake Left output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="38">
@@ -2818,7 +2818,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="39">
       <Symbol>
-        <Component Name="C1 - Hydraulic output" />
+        <Component Name="Hydraulic output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="40">
@@ -2828,7 +2828,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="41">
       <Symbol>
-        <Component Name="R13 - Valve Down output" />
+        <Component Name="Valve Down output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="42">
@@ -2838,7 +2838,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="43">
       <Symbol>
-        <Component Name="R9 - Cabin Motor Brake output" />
+        <Component Name="Cabin Motor Brake output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="44">
@@ -2858,12 +2858,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="47">
       <Symbol>
-        <Component Name="R6 - Cab Warning Light &amp; Buzzer output" />
+        <Component Name="Cab Warning Light &amp; Buzzer output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="48">
       <Symbol>
-        <Component Name="R6 - Cab Warning Light &amp; Buzzer output" />
+        <Component Name="Cab Warning Light &amp; Buzzer output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="49">
@@ -2878,7 +2878,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="51">
       <Symbol>
-        <Component Name="R3 - Left &amp; Right Warning Lights output" />
+        <Component Name="Left &amp; Right Warning Lights output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="52" />
@@ -3285,12 +3285,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="C4 - Tunnel Lights UPS output" />
+        <Component Name="Tunnel Lights UPS output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
       <Symbol>
-        <Component Name="C3 - Tunnel Lights output" />
+        <Component Name="Tunnel Lights output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="27">
@@ -3300,12 +3300,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="28">
       <Symbol>
-        <Component Name="C3 - Tunnel Lights output" />
+        <Component Name="Tunnel Lights output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="C4 - Tunnel Lights UPS output" />
+        <Component Name="Tunnel Lights UPS output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="30" />
@@ -3453,7 +3453,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="C5 - Ext Lighting output" />
+        <Component Name="Ext Lighting output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="23" />
@@ -3538,7 +3538,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="R20 - PBB On output" />
+        <Component Name="PBB On output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="23">
@@ -3553,7 +3553,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="25">
       <Symbol>
-        <Component Name="R21 - PBB Error/Fault/Alarm output" />
+        <Component Name="PBB Error/Fault/Alarm output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="26">
@@ -3563,7 +3563,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="27">
       <Symbol>
-        <Component Name="R22 - Autoleveller On output" />
+        <Component Name="Autoleveller On output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="28">
@@ -3573,7 +3573,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="29">
       <Symbol>
-        <Component Name="R23 - AutoLeveller Fault output" />
+        <Component Name="AutoLeveller Fault output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="30">
@@ -3583,7 +3583,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="31">
       <Symbol>
-        <Component Name="R24 - SafetyShoe Activated output" />
+        <Component Name="SafetyShoe Activated output" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="32">
@@ -3598,7 +3598,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="R25 - Fire Detector output" />
+        <Component Name="Fire Detector output" />
       </Symbol>
     </Access>
     <Part Name="Contact" UId="35" />

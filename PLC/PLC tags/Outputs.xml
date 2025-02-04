@@ -557,7 +557,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.1</LogicalAddress>
-          <Name>C1 - Hydraulic output</Name>
+          <Name>Hydraulic output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="52" CompositionName="Comment">
@@ -565,7 +565,7 @@
               <MultilingualTextItem ID="53" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text>MC-105, MC-106, MC-107, MC-108, Cable No:200, MKS2</Text>
+                  <Text>MC-105, MC-106, MC-107, MC-108, Cable No:200, MKS2, C1</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="54" CompositionName="Items">
@@ -591,7 +591,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.2</LogicalAddress>
-          <Name>C2 - Hose power output</Name>
+          <Name>Hose power output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="57" CompositionName="Comment">
@@ -599,7 +599,7 @@
               <MultilingualTextItem ID="58" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C2 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="59" CompositionName="Items">
@@ -625,7 +625,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.3</LogicalAddress>
-          <Name>C3 - Tunnel Lights output</Name>
+          <Name>Tunnel Lights output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="5C" CompositionName="Comment">
@@ -633,7 +633,7 @@
               <MultilingualTextItem ID="5D" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C3 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="5E" CompositionName="Items">
@@ -659,7 +659,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.4</LogicalAddress>
-          <Name>C4 - Tunnel Lights UPS output</Name>
+          <Name>Tunnel Lights UPS output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="61" CompositionName="Comment">
@@ -667,7 +667,7 @@
               <MultilingualTextItem ID="62" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C4 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="63" CompositionName="Items">
@@ -693,7 +693,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.5</LogicalAddress>
-          <Name>C5 - Ext Lighting output</Name>
+          <Name>Ext Lighting output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="66" CompositionName="Comment">
@@ -701,7 +701,7 @@
               <MultilingualTextItem ID="67" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C5 -</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="68" CompositionName="Items">
@@ -727,7 +727,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.7</LogicalAddress>
-          <Name>R2 - Bumper Red Light iptal output</Name>
+          <Name>Bumper Red Light iptal output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="6B" CompositionName="Comment">
@@ -735,7 +735,7 @@
               <MultilingualTextItem ID="6C" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R2</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="6D" CompositionName="Items">
@@ -761,7 +761,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q3.6</LogicalAddress>
-          <Name>R1 - SafetyEdge Red Light output</Name>
+          <Name>SafetyEdge Red Light output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="70" CompositionName="Comment">
@@ -769,7 +769,7 @@
               <MultilingualTextItem ID="71" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text>MC-256 MC-257 MC-258, Cable No:204, F11</Text>
+                  <Text>MC-256 MC-257 MC-258, Cable No:204, F11, R1</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="72" CompositionName="Items">
@@ -795,7 +795,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.1</LogicalAddress>
-          <Name>R4 - Mania Lights output</Name>
+          <Name>Mania Lights output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="75" CompositionName="Comment">
@@ -803,7 +803,7 @@
               <MultilingualTextItem ID="76" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R4 </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="77" CompositionName="Items">
@@ -829,7 +829,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.3</LogicalAddress>
-          <Name>R6 - Cab Warning Light &amp; Buzzer output</Name>
+          <Name>Cab Warning Light &amp; Buzzer output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7A" CompositionName="Comment">
@@ -837,7 +837,7 @@
               <MultilingualTextItem ID="7B" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R6 </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="7C" CompositionName="Items">
@@ -863,7 +863,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.4</LogicalAddress>
-          <Name>R7 - Motor Brake Left output</Name>
+          <Name>Motor Brake Left output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="7F" CompositionName="Comment">
@@ -871,7 +871,7 @@
               <MultilingualTextItem ID="80" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R7</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="81" CompositionName="Items">
@@ -897,7 +897,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.5</LogicalAddress>
-          <Name>R8 - Motor Brake Right output</Name>
+          <Name>Motor Brake Right output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="84" CompositionName="Comment">
@@ -905,7 +905,7 @@
               <MultilingualTextItem ID="85" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R8</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="86" CompositionName="Items">
@@ -931,7 +931,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.1</LogicalAddress>
-          <Name>R12 - Valve Up output</Name>
+          <Name>Valve Up output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="89" CompositionName="Comment">
@@ -939,7 +939,7 @@
               <MultilingualTextItem ID="8A" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R12</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="8B" CompositionName="Items">
@@ -965,7 +965,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.2</LogicalAddress>
-          <Name>R13 - Valve Down output</Name>
+          <Name>Valve Down output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="8E" CompositionName="Comment">
@@ -973,7 +973,7 @@
               <MultilingualTextItem ID="8F" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R13</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="90" CompositionName="Items">
@@ -999,7 +999,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.3</LogicalAddress>
-          <Name>R14 - Valve Em Down output</Name>
+          <Name>Valve Em Down output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="93" CompositionName="Comment">
@@ -1007,7 +1007,7 @@
               <MultilingualTextItem ID="94" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R14</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="95" CompositionName="Items">
@@ -1033,7 +1033,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.4</LogicalAddress>
-          <Name>R15 - Valve V4 &amp; V5 Columns Down output</Name>
+          <Name>Valve V4 &amp; V5 Columns Down output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="98" CompositionName="Comment">
@@ -1041,7 +1041,7 @@
               <MultilingualTextItem ID="99" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R15</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="9A" CompositionName="Items">
@@ -1067,7 +1067,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.0</LogicalAddress>
-          <Name>R3 - Left &amp; Right Warning Lights output</Name>
+          <Name>Left &amp; Right Warning Lights output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="9D" CompositionName="Comment">
@@ -1075,7 +1075,7 @@
               <MultilingualTextItem ID="9E" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R3</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="9F" CompositionName="Items">
@@ -1101,7 +1101,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q4.6</LogicalAddress>
-          <Name>R9 - Cabin Motor Brake output</Name>
+          <Name>Cabin Motor Brake output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="A2" CompositionName="Comment">
@@ -1109,7 +1109,7 @@
               <MultilingualTextItem ID="A3" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R9</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="A4" CompositionName="Items">
@@ -1135,7 +1135,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.5</LogicalAddress>
-          <Name>R20 - PBB On output</Name>
+          <Name>PBB On output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="A7" CompositionName="Comment">
@@ -1143,7 +1143,7 @@
               <MultilingualTextItem ID="A8" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R20</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="A9" CompositionName="Items">
@@ -1169,7 +1169,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.6</LogicalAddress>
-          <Name>R21 - PBB Error/Fault/Alarm output</Name>
+          <Name>PBB Error/Fault/Alarm output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="AC" CompositionName="Comment">
@@ -1177,7 +1177,7 @@
               <MultilingualTextItem ID="AD" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R21</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="AE" CompositionName="Items">
@@ -1203,7 +1203,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q5.7</LogicalAddress>
-          <Name>R22 - Autoleveller On output</Name>
+          <Name>Autoleveller On output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B1" CompositionName="Comment">
@@ -1211,7 +1211,7 @@
               <MultilingualTextItem ID="B2" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R22</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="B3" CompositionName="Items">
@@ -1237,7 +1237,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q6.0</LogicalAddress>
-          <Name>R23 - AutoLeveller Fault output</Name>
+          <Name>AutoLeveller Fault output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="B6" CompositionName="Comment">
@@ -1245,7 +1245,7 @@
               <MultilingualTextItem ID="B7" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R23</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="B8" CompositionName="Items">
@@ -1271,7 +1271,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q6.1</LogicalAddress>
-          <Name>R24 - SafetyShoe Activated output</Name>
+          <Name>SafetyShoe Activated output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="BB" CompositionName="Comment">
@@ -1279,7 +1279,7 @@
               <MultilingualTextItem ID="BC" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R24</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="BD" CompositionName="Items">
@@ -1305,7 +1305,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q6.2</LogicalAddress>
-          <Name>R25 - Fire Detector output</Name>
+          <Name>Fire Detector output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C0" CompositionName="Comment">
@@ -1313,7 +1313,7 @@
               <MultilingualTextItem ID="C1" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R25</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="C2" CompositionName="Items">
@@ -1339,7 +1339,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.0</LogicalAddress>
-          <Name>R50 - HMI Power output</Name>
+          <Name>HMI Power output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="C5" CompositionName="Comment">
@@ -1347,7 +1347,7 @@
               <MultilingualTextItem ID="C6" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R50</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="C7" CompositionName="Items">
@@ -1373,7 +1373,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.1</LogicalAddress>
-          <Name>R51 - SafetyShoe Power output</Name>
+          <Name>SafetyShoe Power output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="CA" CompositionName="Comment">
@@ -1381,7 +1381,7 @@
               <MultilingualTextItem ID="CB" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>R51</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="CC" CompositionName="Items">
@@ -1407,7 +1407,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.6</LogicalAddress>
-          <Name>C52 - Left Canopy FW output</Name>
+          <Name>Left Canopy FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="CF" CompositionName="Comment">
@@ -1415,7 +1415,7 @@
               <MultilingualTextItem ID="D0" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C52 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="D1" CompositionName="Items">
@@ -1441,7 +1441,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.7</LogicalAddress>
-          <Name>C53 - Left Canopy BW output</Name>
+          <Name>Left Canopy BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="D4" CompositionName="Comment">
@@ -1449,7 +1449,7 @@
               <MultilingualTextItem ID="D5" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C53 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="D6" CompositionName="Items">
@@ -1475,7 +1475,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.0</LogicalAddress>
-          <Name>C54 - Right Canopy FW output</Name>
+          <Name>Right Canopy FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="D9" CompositionName="Comment">
@@ -1483,7 +1483,7 @@
               <MultilingualTextItem ID="DA" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C54 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="DB" CompositionName="Items">
@@ -1509,7 +1509,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.1</LogicalAddress>
-          <Name>C55 - Right Canopy BW output</Name>
+          <Name>Right Canopy BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="DE" CompositionName="Comment">
@@ -1517,7 +1517,7 @@
               <MultilingualTextItem ID="DF" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C55 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="E0" CompositionName="Items">
@@ -1543,7 +1543,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.4</LogicalAddress>
-          <Name>C50 - Cab Floor FW output</Name>
+          <Name>Cab Floor FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="E3" CompositionName="Comment">
@@ -1551,7 +1551,7 @@
               <MultilingualTextItem ID="E4" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C50 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="E5" CompositionName="Items">
@@ -1577,7 +1577,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q10.5</LogicalAddress>
-          <Name>C51 - Cab Floor BW output</Name>
+          <Name>Cab Floor BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="E8" CompositionName="Comment">
@@ -1585,7 +1585,7 @@
               <MultilingualTextItem ID="E9" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C51 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="EA" CompositionName="Items">
@@ -1611,7 +1611,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.2</LogicalAddress>
-          <Name>C56 - AutoLeveller FW output</Name>
+          <Name>AutoLeveller FW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="ED" CompositionName="Comment">
@@ -1619,7 +1619,7 @@
               <MultilingualTextItem ID="EE" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C56 -</Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="EF" CompositionName="Items">
@@ -1645,7 +1645,7 @@
           <ExternalVisible>true</ExternalVisible>
           <ExternalWritable>true</ExternalWritable>
           <LogicalAddress>%Q11.3</LogicalAddress>
-          <Name>C57 - AutoLeveller BW output</Name>
+          <Name>AutoLeveller BW output</Name>
         </AttributeList>
         <ObjectList>
           <MultilingualText ID="F2" CompositionName="Comment">
@@ -1653,7 +1653,7 @@
               <MultilingualTextItem ID="F3" CompositionName="Items">
                 <AttributeList>
                   <Culture>en-US</Culture>
-                  <Text />
+                  <Text>C57 - </Text>
                 </AttributeList>
               </MultilingualTextItem>
               <MultilingualTextItem ID="F4" CompositionName="Items">
