@@ -2469,7 +2469,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="35">
       <Symbol>
-        <Component Name="Button Reset input" />
+        <Component Name="Button Reset Memo" />
       </Symbol>
     </Access>
     <Access Scope="TypedConstant" UId="36">
@@ -2546,9 +2546,7 @@
       <TemplateValue Name="time_type" Type="Type">Time</TemplateValue>
     </Part>
     <Part Name="ResetIECTimerCoil" UId="61" />
-    <Part Name="Contact" UId="62">
-      <Negated Name="operand" />
-    </Part>
+    <Part Name="Contact" UId="62" />
     <Part Name="TOF" Version="1.0" UId="63">
       <Instance Scope="GlobalVariable" UId="64">
         <Component Name="SafetyShoe Siren&amp;Info Timer" />
