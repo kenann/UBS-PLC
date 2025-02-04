@@ -129,12 +129,12 @@
     </Access>
     <Access Scope="GlobalVariable" UId="33">
       <Symbol>
-        <Component Name="Canopy Touch Left input" />
+        <Component Name="Canopy Touch Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="34">
       <Symbol>
-        <Component Name="Canopy Touch Right input" />
+        <Component Name="Canopy Touch Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="35">

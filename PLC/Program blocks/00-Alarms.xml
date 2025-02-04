@@ -2823,7 +2823,7 @@
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
-        <Component Name="Canopy Touch Left input" />
+        <Component Name="Canopy Touch Left Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="22">
@@ -2833,7 +2833,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="23">
       <Symbol>
-        <Component Name="Canopy Touch Right input" />
+        <Component Name="Canopy Touch Right Memo" />
       </Symbol>
     </Access>
     <Access Scope="GlobalVariable" UId="24">
@@ -2881,13 +2881,9 @@
         <Component Name="AL-Canopy BW Button Pressed" />
       </Symbol>
     </Access>
-    <Part Name="Contact" UId="33">
-      <Negated Name="operand" />
-    </Part>
+    <Part Name="Contact" UId="33" />
     <Part Name="Coil" UId="34" />
-    <Part Name="Contact" UId="35">
-      <Negated Name="operand" />
-    </Part>
+    <Part Name="Contact" UId="35" />
     <Part Name="Coil" UId="36" />
     <Part Name="Contact" UId="37">
       <Negated Name="operand" />
