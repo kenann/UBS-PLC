@@ -1,3 +1,3 @@
 # Welcome to GitHub Desktop!
 
-Tia - Github bağlantısı kurarak. Versiyon kontrolü artık başladı.
+Tia v20 - Github bağlantısı kurarak. Versiyon kontrolü artık başladı.
