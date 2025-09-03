@@ -1,21 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Document>
-  <Engineering version="V18" />
+  <Engineering version="V20" />
   <SW.Blocks.OB ID="0">
     <AttributeList>
-      <AutoNumber>true</AutoNumber>
-      <HeaderAuthor />
-      <HeaderFamily />
-      <HeaderName />
-      <HeaderVersion>0.1</HeaderVersion>
       <Interface><Sections xmlns="http://www.siemens.com/automation/Openness/SW/Interface/v5">
   <Section Name="Input">
-    <Member Name="Initial_Call" Datatype="Bool" Accessibility="Public" Informative="true">
+    <Member Name="Initial_Call" Datatype="Bool" Informative="true">
       <Comment>
         <MultiLanguageText Lang="en-US">Initial call of this OB</MultiLanguageText>
       </Comment>
     </Member>
-    <Member Name="Remanence" Datatype="Bool" Accessibility="Public" Informative="true">
+    <Member Name="Remanence" Datatype="Bool" Informative="true">
       <Comment>
         <MultiLanguageText Lang="en-US">=True, if remanent data are available</MultiLanguageText>
       </Comment>
@@ -23,14 +18,13 @@
   </Section>
   <Section Name="Temp">
     <Member Name="Temp NormScale" Datatype="Real" />
-    <Member Name="Temp_1" Datatype="Bool" />
+    <Member Name="Temp_10" Datatype="Bool" />
     <Member Name="Temp_2" Datatype="Bool" />
     <Member Name="read date val" Datatype="DTL" Version="1.0" />
     <Member Name="read date out" Datatype="Int" />
   </Section>
   <Section Name="Constant" />
 </Sections></Interface>
-      <IsIECCheckEnabled>false</IsIECCheckEnabled>
       <MemoryLayout>Optimized</MemoryLayout>
       <Name>10-Main</Name>
       <Namespace />
@@ -64,7 +58,7 @@
       </MultilingualText>
       <SW.Blocks.CompileUnit ID="5" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -249,7 +243,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="E" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -529,7 +523,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="17" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -780,7 +774,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="20" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -1004,7 +998,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="29" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -1390,7 +1384,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="32" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -1568,7 +1562,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="3B" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -1772,7 +1766,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="44" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -2395,7 +2389,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="4D" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -2801,7 +2795,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="56" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -3397,7 +3391,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="5F" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -3580,7 +3574,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="68" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -3665,7 +3659,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="71" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
@@ -3923,7 +3917,7 @@
       </SW.Blocks.CompileUnit>
       <SW.Blocks.CompileUnit ID="7A" CompositionName="CompileUnits">
         <AttributeList>
-          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v4">
+          <NetworkSource><FlgNet xmlns="http://www.siemens.com/automation/Openness/SW/NetworkSource/FlgNet/v5">
   <Parts>
     <Access Scope="GlobalVariable" UId="21">
       <Symbol>
